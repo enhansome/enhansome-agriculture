@@ -1,0 +1,724 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fields2Cover",
+          "description": "Robust and efficient coverage paths for autonomous agricultural vehicles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T08:59:42Z",
+            "owner": "Fields2Cover",
+            "repo": "Fields2Cover",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Field Friend",
+          "description": "A Development Platform for Autonomous Weeding.",
+          "children": []
+        }
+      ],
+      "title": "Automation and Robotics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iem",
+          "description": "Code that makes the Iowa Environmental Mesonet run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:00:29Z",
+            "owner": "akrherz",
+            "repo": "iem",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyETo",
+          "description": "Python package for calculating reference/potential evapotranspiration (ETo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-31T14:40:31Z",
+            "owner": "woodcrafty",
+            "repo": "PyETo",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyTSEB",
+          "description": "A python two source energy balance model for estimation of evapotranspiration with remote sensing data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-05T08:04:54Z",
+            "owner": "hectornieto",
+            "repo": "pyTSEB",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frostline",
+          "description": "A dataset, API, and python parser for USDA plant hardiness zones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-11T19:29:51Z",
+            "owner": "waldoj",
+            "repo": "frostline",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soilDB",
+          "description": "R library for simplified access to NCSS soil databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-15T21:32:05Z",
+            "owner": "ncss-tech",
+            "repo": "soilDB",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSODR",
+          "description": "Global summary daily weather data in R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-17T05:56:18Z",
+            "owner": "ropensci",
+            "repo": "GSODR",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agroclimatology",
+          "description": "Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-30T14:01:30Z",
+            "owner": "brycejohnston",
+            "repo": "agroclimatology",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evapotranspiration",
+          "description": "Ruby library for calculating reference crop evapotranspiration (ETo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-30T14:00:05Z",
+            "owner": "brycejohnston",
+            "repo": "evapotranspiration",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Climate, Environment and Weather"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CropHarvest",
+          "description": "Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-30T14:12:20Z",
+            "owner": "nasaharvest",
+            "repo": "cropharvest",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoybeanYield",
+          "description": "A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-14T08:23:25Z",
+            "owner": "saeedkhaki92",
+            "repo": "CNN-RNN-Yield-Prediction",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CWFID",
+          "description": "Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-04-20T11:00:45Z",
+            "owner": "cwfid",
+            "repo": "dataset",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SampleData",
+          "description": "Sample datacards, shapefiles, and other files you can use for testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-29T01:45:03Z",
+            "owner": "JohnDeere",
+            "repo": "SampleData",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyJohnDeereAPI-OAuth2-Python-Example",
+          "description": "Python MyJohnDeere API client example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T23:23:30Z",
+            "owner": "JohnDeere",
+            "repo": "OperationsCenterAPI-OAuth2-Python-Example",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Botanica",
+          "description": "Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T01:31:25Z",
+            "owner": "Michael-A-Kuykendall",
+            "repo": "botanica",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API-Code-Samples",
+          "description": "Contains aWhere's API platform code samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-01-10T19:59:58Z",
+            "owner": "aWhereAPI",
+            "repo": "API-Code-Samples",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyJohnDeereAPI-OAuth2-Java-Example",
+          "description": "Java MyJohnDeere API client example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T22:04:06Z",
+            "owner": "JohnDeere",
+            "repo": "OperationsCenterAPI-OAuth2-Java-Example",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyJohnDeereAPI-OAuth2-NodeJS-Example",
+          "description": "Node.js MyJohnDeere API client example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:08:14Z",
+            "owner": "JohnDeere",
+            "repo": "OperationsCenterAPI-OAuth2-NodeJS-Example",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SencropAPI-JavaScript-Client",
+          "description": "Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T19:16:42Z",
+            "owner": "sencrop",
+            "repo": "sencrop-js-api-client",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearAg-API-Examples",
+          "description": "A collection of code examples using the ClearAg APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-17T20:38:09Z",
+            "owner": "DTNClearAg",
+            "repo": "clearag_api_examples",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JDLinkMachineDataAPI-OAuth2-CSharp-Example",
+          "description": "CSharp JDLink Machine Data API client example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T22:15:24Z",
+            "owner": "JohnDeere",
+            "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data Standardization, Interoperability and APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "farmOS",
+          "description": "Web-based farm record keeping application built with Drupal and PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-16T15:11:12Z",
+            "owner": "farmOS",
+            "repo": "farmOS",
+            "stars": 1336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tania",
+          "description": "Free and open source farming management system for everyone built with Go and Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-03T15:02:58Z",
+            "owner": "usetania",
+            "repo": "tania-core",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ekylibre",
+          "description": "Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-26T20:05:33Z",
+            "owner": "ekylibre",
+            "repo": "ekylibre",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteFarm",
+          "description": "LiteFarm is the world’s first community-led, not-for-profit, Farm management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:53:37Z",
+            "owner": "LiteFarmOrg",
+            "repo": "LiteFarm",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soil Mate",
+          "description": "Helper app designed to assist the collection of soil data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-04-05T03:15:05Z",
+            "owner": "Open-Source-Agriculture",
+            "repo": "soil_logr",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Farm Management Systems and Record Keeping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geospatial and GIS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyshp",
+          "description": "Reads and writes ESRI Shapefiles in pure Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T16:47:54Z",
+            "owner": "GeospatialPython",
+            "repo": "pyshp",
+            "stars": 1154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgeo-shapefile",
+          "description": "RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-10-10T10:58:00Z",
+            "owner": "rgeo",
+            "repo": "rgeo-shapefile",
+            "stars": 98
+          }
+        }
+      ],
+      "title": "Shapefiles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Farm-Data-Relay-System",
+          "description": "System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-29T16:48:19Z",
+            "owner": "timmbogner",
+            "repo": "Farm-Data-Relay-System",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWeedLocator",
+          "description": "Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T12:15:10Z",
+            "owner": "geezacoleman",
+            "repo": "OpenWeedLocator",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMinder",
+          "description": "Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-06-14T02:28:47Z",
+            "owner": "autogrow",
+            "repo": "openminder",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplesteer",
+          "description": "RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-12T21:59:08Z",
+            "owner": "matmis",
+            "repo": "simplesteer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Farming Thingsboard",
+          "description": "a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-05T13:13:27Z",
+            "owner": "arifulmrislam",
+            "repo": "Smart-farming-dashboard-with-ThingsBoard",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgOpenGPS",
+          "description": "Ag precision mapping and section control software.",
+          "children": []
+        }
+      ],
+      "title": "IoT, Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenFarm",
+          "description": "A free and open database for farming and gardening knowledge built with Ruby on Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-04-22T04:31:34Z",
+            "owner": "openfarmcc",
+            "repo": "OpenFarm",
+            "stars": 1730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvest Helper",
+          "description": "Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-06-06T02:09:12Z",
+            "owner": "damwhit",
+            "repo": "harvest_helper",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Knowledgebases and Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FarmVibes.AI",
+          "description": "Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-28T13:36:22Z",
+            "owner": "microsoft",
+            "repo": "farmvibes-ai",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlantCV",
+          "description": "Plant phenotyping software using computer vision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:01:41Z",
+            "owner": "danforthcenter",
+            "repo": "plantcv",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crop Yield Prediction",
+          "description": "Deep gaussian process for crop yield prediction based on remote sensing data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-27T09:09:30Z",
+            "owner": "JiaxuanYou",
+            "repo": "crop_yield_prediction",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgML",
+          "description": "Centralized framework for agricultural machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T21:44:44Z",
+            "owner": "Project-AgML",
+            "repo": "AgML",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agridat",
+          "description": "R package providing an extensive collection of datasets from agricultural experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-22T15:57:03Z",
+            "owner": "kwstat",
+            "repo": "agridat",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning for Biologists with Keras",
+          "description": "Tutorials for deep learning based analysis (mainly) on biological relavent themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-27T14:13:18Z",
+            "owner": "totti0223",
+            "repo": "deep_learning_for_biologists_with_keras",
+            "stars": 107
+          }
+        }
+      ],
+      "title": "Machine Learning and AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Raster Vision",
+          "description": "Deep learning for aerial/satellite imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T14:59:54Z",
+            "owner": "azavea",
+            "repo": "raster-vision",
+            "stars": 2237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Sentinel",
+          "description": "A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-20T08:03:22Z",
+            "owner": "kr-stn",
+            "repo": "awesome-sentinel",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sen2Agri",
+          "description": "Software system processing high resolution satellite images for agricultural purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-23T15:41:45Z",
+            "owner": "Sen2Agri",
+            "repo": "Sen2Agri-System",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Vegetation Index",
+          "description": "List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-09T15:39:18Z",
+            "owner": "px39n",
+            "repo": "Awesome-Vegetation-Index",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Remote Sensing and Imagery"
+    },
+    {
+      "description": "To the extent possible under law, Bryce Johnston has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:05:00.108Z",
+    "original_repository": "brycejohnston/awesome-agriculture",
+    "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
+    "enhanced_repository": "enhansome/enhansome-agriculture",
+    "enhanced_repository_description": null,
+    "title": "Awesome Agriculture with stars"
+  }
+}
