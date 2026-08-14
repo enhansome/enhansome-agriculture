@@ -14,7 +14,7 @@
             "last_commit": "2026-08-10T08:59:42Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 860
+            "stars": 863
           }
         },
         {
@@ -37,7 +37,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:00:29Z",
+            "last_commit": "2026-08-13T19:42:45Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -93,7 +93,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-15T21:32:05Z",
+            "last_commit": "2026-08-13T14:14:23Z",
             "owner": "ncss-tech",
             "repo": "soilDB",
             "stars": 100
@@ -338,7 +338,7 @@
             "last_commit": "2026-07-16T15:11:12Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1336
+            "stars": 1338
           }
         },
         {
@@ -377,7 +377,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T22:53:37Z",
+            "last_commit": "2026-08-13T20:33:48Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 233
@@ -467,7 +467,7 @@
             "last_commit": "2026-07-17T12:15:10Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-08-12T22:01:41Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 813
+            "stars": 815
           }
         },
         {
@@ -608,7 +608,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-10T21:44:44Z",
+            "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
             "stars": 302
@@ -659,7 +659,7 @@
             "last_commit": "2026-06-04T14:59:54Z",
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2237
+            "stars": 2238
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2025-02-20T08:03:22Z",
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:05:00.108Z",
+    "last_updated": "2026-08-14T12:02:49.235Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
