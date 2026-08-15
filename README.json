@@ -14,7 +14,7 @@
             "last_commit": "2026-08-10T08:59:42Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 863
+            "stars": 864
           }
         },
         {
@@ -37,7 +37,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:42:45Z",
+            "last_commit": "2026-08-14T15:15:54Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T23:08:14Z",
+            "last_commit": "2026-08-14T17:49:13Z",
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-NodeJS-Example",
             "stars": 3
@@ -315,7 +315,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T22:15:24Z",
+            "last_commit": "2026-08-14T17:44:53Z",
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
             "stars": 0
@@ -338,7 +338,7 @@
             "last_commit": "2026-07-16T15:11:12Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1338
+            "stars": 1337
           }
         },
         {
@@ -377,7 +377,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:33:48Z",
+            "last_commit": "2026-08-15T00:21:36Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 233
@@ -416,7 +416,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-25T16:47:54Z",
+            "last_commit": "2026-08-14T16:07:12Z",
             "owner": "GeospatialPython",
             "repo": "pyshp",
             "stars": 1154
@@ -453,7 +453,7 @@
             "last_commit": "2026-01-29T16:48:19Z",
             "owner": "timmbogner",
             "repo": "Farm-Data-Relay-System",
-            "stars": 622
+            "stars": 623
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T12:15:10Z",
+            "last_commit": "2026-08-15T10:17:19Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
             "stars": 489
@@ -580,10 +580,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:01:41Z",
+            "last_commit": "2026-08-14T20:03:53Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 815
+            "stars": 817
           }
         },
         {
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:02:49.235Z",
+    "last_updated": "2026-08-15T11:40:01.122Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
