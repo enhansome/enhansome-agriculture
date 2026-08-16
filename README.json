@@ -37,7 +37,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:15:54Z",
+            "last_commit": "2026-08-15T20:07:21Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -352,7 +352,7 @@
             "last_commit": "2026-03-03T15:02:58Z",
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 817
+            "stars": 818
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2026-08-15T00:21:36Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T10:17:19Z",
+            "last_commit": "2026-08-15T20:46:12Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2025-04-22T04:31:34Z",
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1730
+            "stars": 1729
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 302
+            "stars": 307
           }
         },
         {
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:40:01.122Z",
+    "last_updated": "2026-08-16T11:40:44.514Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
