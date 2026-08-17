@@ -37,7 +37,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:07:21Z",
+            "last_commit": "2026-08-16T20:32:35Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -338,7 +338,7 @@
             "last_commit": "2026-07-16T15:11:12Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-07-26T20:05:33Z",
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 307
+            "stars": 314
           }
         },
         {
@@ -714,7 +714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:40:44.514Z",
+    "last_updated": "2026-08-17T11:46:32.188Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
