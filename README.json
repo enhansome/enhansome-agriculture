@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,24 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501080115,
             "language": "C++",
             "last_commit": "2026-08-18T08:09:12Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
             "stars": 867
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Field Friend",
-          "description": "A Development Platform for Autonomous Weeding.",
-          "children": []
         }
       ],
       "title": "Automation and Robotics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -36,6 +31,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4253774,
             "language": "Python",
             "last_commit": "2026-08-17T17:26:24Z",
             "owner": "akrherz",
@@ -50,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33627637,
             "language": "Python",
             "last_commit": "2022-08-31T14:40:31Z",
             "owner": "woodcrafty",
@@ -64,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49656575,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-05T08:04:54Z",
             "owner": "hectornieto",
@@ -78,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36908386,
             "language": "Python",
             "last_commit": "2025-11-11T19:29:51Z",
             "owner": "waldoj",
@@ -92,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54595470,
             "language": "R",
             "last_commit": "2026-08-13T14:14:23Z",
             "owner": "ncss-tech",
@@ -106,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32764550,
             "language": "R",
             "last_commit": "2026-05-17T05:56:18Z",
             "owner": "ropensci",
@@ -120,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59120863,
             "language": "Ruby",
             "last_commit": "2017-08-30T14:01:30Z",
             "owner": "brycejohnston",
@@ -134,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59247101,
             "language": "Ruby",
             "last_commit": "2017-08-30T14:00:05Z",
             "owner": "brycejohnston",
@@ -145,7 +148,7 @@
       "title": "Climate, Environment and Weather"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377906448,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-30T14:12:20Z",
             "owner": "nasaharvest",
@@ -168,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217547953,
             "language": "Python",
             "last_commit": "2024-03-14T08:23:25Z",
             "owner": "saeedkhaki92",
@@ -182,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22174287,
             "language": null,
             "last_commit": "2015-04-20T11:00:45Z",
             "owner": "cwfid",
@@ -193,7 +199,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -202,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131061666,
             "language": null,
             "last_commit": "2023-03-29T01:45:03Z",
             "owner": "JohnDeere",
@@ -216,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251667900,
             "language": "Python",
             "last_commit": "2026-02-20T23:23:30Z",
             "owner": "JohnDeere",
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051971535,
             "language": "Rust",
             "last_commit": "2026-07-29T01:31:25Z",
             "owner": "Michael-A-Kuykendall",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44483388,
             "language": "C#",
             "last_commit": "2019-01-10T19:59:58Z",
             "owner": "aWhereAPI",
@@ -258,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234744683,
             "language": "Java",
             "last_commit": "2026-08-18T07:05:34Z",
             "owner": "JohnDeere",
@@ -272,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306081580,
             "language": "JavaScript",
             "last_commit": "2026-08-14T17:49:13Z",
             "owner": "JohnDeere",
@@ -286,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 98516521,
             "language": "JavaScript",
             "last_commit": "2023-04-18T19:16:42Z",
             "owner": "sencrop",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54490395,
             "language": "JavaScript",
             "last_commit": "2018-10-17T20:38:09Z",
             "owner": "DTNClearAg",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368324594,
             "language": "C#",
             "last_commit": "2026-08-14T17:44:53Z",
             "owner": "JohnDeere",
@@ -325,7 +340,7 @@
       "title": "Data Standardization, Interoperability and APIs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -334,8 +349,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16508135,
             "language": "PHP",
-            "last_commit": "2026-07-16T15:11:12Z",
+            "last_commit": "2026-08-18T20:55:11Z",
             "owner": "farmOS",
             "repo": "farmOS",
             "stars": 1338
@@ -348,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114613642,
             "language": "Go",
             "last_commit": "2026-03-03T15:02:58Z",
             "owner": "usetania",
@@ -362,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2196186,
             "language": "Ruby",
             "last_commit": "2026-07-26T20:05:33Z",
             "owner": "ekylibre",
@@ -376,11 +394,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T23:34:32Z",
+            "last_commit": "2026-08-18T23:44:36Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -390,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332931243,
             "language": "Dart",
             "last_commit": "2021-04-05T03:15:05Z",
             "owner": "Open-Source-Agriculture",
@@ -401,46 +421,50 @@
       "title": "Farm Management Systems and Record Keeping"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyshp",
+              "description": "Reads and writes ESRI Shapefiles in pure Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17410607,
+                "language": "Python",
+                "last_commit": "2026-08-18T09:17:02Z",
+                "owner": "GeospatialPython",
+                "repo": "pyshp",
+                "stars": 1154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rgeo-shapefile",
+              "description": "RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1144717,
+                "language": "Ruby",
+                "last_commit": "2024-10-10T10:58:00Z",
+                "owner": "rgeo",
+                "repo": "rgeo-shapefile",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shapefiles"
+        }
+      ],
       "title": "Geospatial and GIS"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pyshp",
-          "description": "Reads and writes ESRI Shapefiles in pure Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:17:02Z",
-            "owner": "GeospatialPython",
-            "repo": "pyshp",
-            "stars": 1154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rgeo-shapefile",
-          "description": "RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-10-10T10:58:00Z",
-            "owner": "rgeo",
-            "repo": "rgeo-shapefile",
-            "stars": 98
-          }
-        }
-      ],
-      "title": "Shapefiles"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -449,6 +473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322460747,
             "language": "C",
             "last_commit": "2026-01-29T16:48:19Z",
             "owner": "timmbogner",
@@ -463,6 +488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399194159,
             "language": "Python",
             "last_commit": "2026-08-17T21:21:30Z",
             "owner": "geezacoleman",
@@ -477,6 +503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136095599,
             "language": "Go",
             "last_commit": "2018-06-14T02:28:47Z",
             "owner": "autogrow",
@@ -491,6 +518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847272192,
             "language": "JavaScript",
             "last_commit": "2026-04-12T21:59:08Z",
             "owner": "matmis",
@@ -505,24 +533,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424502598,
             "language": null,
             "last_commit": "2022-05-05T13:13:27Z",
             "owner": "arifulmrislam",
             "repo": "Smart-farming-dashboard-with-ThingsBoard",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AgOpenGPS",
-          "description": "Ag precision mapping and section control software.",
-          "children": []
         }
       ],
       "title": "IoT, Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -531,6 +554,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13895958,
             "language": "Ruby",
             "last_commit": "2025-04-22T04:31:34Z",
             "owner": "openfarmcc",
@@ -545,6 +569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56618315,
             "language": "Ruby",
             "last_commit": "2023-06-06T02:09:12Z",
             "owner": "damwhit",
@@ -556,7 +581,7 @@
       "title": "Knowledgebases and Learning Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -565,11 +590,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533452400,
             "language": "Jupyter Notebook",
             "last_commit": "2025-07-28T13:36:22Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 886
+            "stars": 891
           }
         },
         {
@@ -579,11 +605,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17755890,
             "language": "Python",
-            "last_commit": "2026-08-17T18:45:52Z",
+            "last_commit": "2026-08-18T18:12:46Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 818
+            "stars": 817
           }
         },
         {
@@ -593,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86331218,
             "language": "Python",
             "last_commit": "2023-05-27T09:09:30Z",
             "owner": "JiaxuanYou",
@@ -607,11 +635,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422590908,
             "language": "Python",
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 319
+            "stars": 325
           }
         },
         {
@@ -621,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4446000,
             "language": "R",
             "last_commit": "2026-07-22T15:57:03Z",
             "owner": "kwstat",
@@ -635,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162854872,
             "language": "Jupyter Notebook",
             "last_commit": "2019-05-27T14:13:18Z",
             "owner": "totti0223",
@@ -646,7 +677,7 @@
       "title": "Machine Learning and AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -655,11 +686,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80733109,
             "language": "Python",
             "last_commit": "2026-06-04T14:59:54Z",
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2239
+            "stars": 2240
           }
         },
         {
@@ -669,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71541009,
             "language": null,
             "last_commit": "2025-02-20T08:03:22Z",
             "owner": "kr-stn",
@@ -683,11 +716,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95749649,
             "language": "HTML",
             "last_commit": "2020-11-23T15:41:45Z",
             "owner": "Sen2Agri",
             "repo": "Sen2Agri-System",
-            "stars": 131
+            "stars": 132
           }
         },
         {
@@ -697,6 +731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296929623,
             "language": null,
             "last_commit": "2023-03-09T15:39:18Z",
             "owner": "px39n",
@@ -706,16 +741,12 @@
         }
       ],
       "title": "Remote Sensing and Imagery"
-    },
-    {
-      "description": "To the extent possible under law, Bryce Johnston has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:46:40.193Z",
+    "last_updated": "2026-08-19T11:45:49.390Z",
     "original_repository": "brycejohnston/awesome-agriculture",
+    "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
     "enhanced_repository_description": null,
