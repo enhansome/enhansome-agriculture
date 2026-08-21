@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T08:09:12Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 867
+            "stars": 868
           }
         }
       ],
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-20T10:44:15Z",
+            "last_commit": "2026-08-21T00:08:04Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -162,7 +162,7 @@
             "last_commit": "2024-04-30T14:12:20Z",
             "owner": "nasaharvest",
             "repo": "cropharvest",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-03-03T15:02:58Z",
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-26T20:05:33Z",
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 486
+            "stars": 488
           }
         },
         {
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T22:40:46Z",
+            "last_commit": "2026-08-20T22:23:42Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 235
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 533452400,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-20T01:05:38Z",
+            "last_commit": "2026-08-20T16:28:59Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
             "stars": 891
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-18T18:12:46Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 817
+            "stars": 816
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2023-05-27T09:09:30Z",
             "owner": "JiaxuanYou",
             "repo": "crop_yield_prediction",
-            "stars": 423
+            "stars": 422
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:48:37.844Z",
+    "last_updated": "2026-08-21T11:48:31.708Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
