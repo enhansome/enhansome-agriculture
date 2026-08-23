@@ -437,7 +437,7 @@
                 "last_commit": "2026-08-18T09:17:02Z",
                 "owner": "GeospatialPython",
                 "repo": "pyshp",
-                "stars": 1154
+                "stars": 1153
               }
             },
             {
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-17T21:21:30Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -559,7 +559,7 @@
             "last_commit": "2025-04-22T04:31:34Z",
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1729
+            "stars": 1730
           }
         },
         {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 533452400,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-22T09:52:33Z",
+            "last_commit": "2026-08-22T16:56:49Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
             "stars": 892
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:41:20.979Z",
+    "last_updated": "2026-08-23T11:41:01.012Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
