@@ -12,10 +12,10 @@
             "archived": false,
             "id": 501080115,
             "language": "C++",
-            "last_commit": "2026-08-22T09:12:15Z",
+            "last_commit": "2026-08-23T16:21:12Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 870
+            "stars": 871
           }
         }
       ],
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-21T23:14:23Z",
+            "last_commit": "2026-08-24T03:10:50Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-18T20:55:11Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1338
+            "stars": 1340
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-01-29T16:48:19Z",
             "owner": "timmbogner",
             "repo": "Farm-Data-Relay-System",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -559,7 +559,7 @@
             "last_commit": "2025-04-22T04:31:34Z",
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1730
+            "stars": 1731
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2026-08-22T16:56:49Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 892
+            "stars": 895
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-21T16:29:48Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 816
+            "stars": 817
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:41:01.012Z",
+    "last_updated": "2026-08-24T11:49:32.516Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
