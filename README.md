@@ -23,7 +23,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Automation and Robotics
 
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 871 | 🐛 35 | 🌐 C++ | 📅 2026-08-23 - Robust and efficient coverage paths for autonomous agricultural vehicles.
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 871 | 🐛 36 | 🌐 C++ | 📅 2026-08-23 - Robust and efficient coverage paths for autonomous agricultural vehicles.
 * [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
 * [Acorn Rover](https://github.com/Twisted-Fields) - precision farming rover, Odrive, Python.
 * [Earth Rover](https://github.com/earthrover) - Ag AGV ROS1 precision farming rover

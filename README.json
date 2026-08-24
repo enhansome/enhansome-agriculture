@@ -427,6 +427,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome GIS",
+              "description": "Awesome GIS is a list collecting abundant GIS related sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52671720,
+                "language": null,
+                "last_commit": "2026-07-21T09:10:54Z",
+                "owner": "sshuair",
+                "repo": "awesome-gis",
+                "stars": 5497
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GIS Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "pyshp",
               "description": "Reads and writes ESRI Shapefiles in pure Python.",
               "children": [],
@@ -744,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:49:32.516Z",
+    "last_updated": "2026-08-24T14:07:12.434Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
