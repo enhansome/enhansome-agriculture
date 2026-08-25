@@ -33,7 +33,7 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-24T03:10:50Z",
+            "last_commit": "2026-08-24T19:00:00Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -77,8 +77,8 @@
           "repo_info": {
             "archived": false,
             "id": 36908386,
-            "language": "Python",
-            "last_commit": "2025-11-11T19:29:51Z",
+            "language": "HTML",
+            "last_commit": "2026-08-25T03:04:18Z",
             "owner": "waldoj",
             "repo": "frostline",
             "stars": 165
@@ -126,7 +126,7 @@
             "last_commit": "2017-08-30T14:01:30Z",
             "owner": "brycejohnston",
             "repo": "agroclimatology",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2017-08-30T14:00:05Z",
             "owner": "brycejohnston",
             "repo": "evapotranspiration",
-            "stars": 14
+            "stars": 15
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2015-04-20T11:00:45Z",
             "owner": "cwfid",
             "repo": "dataset",
-            "stars": 161
+            "stars": 162
           }
         }
       ],
@@ -243,7 +243,7 @@
             "last_commit": "2026-07-29T01:31:25Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "botanica",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-26T20:05:33Z",
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T20:02:31Z",
+            "last_commit": "2026-08-24T22:54:55Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2021-04-05T03:15:05Z",
             "owner": "Open-Source-Agriculture",
             "repo": "soil_logr",
-            "stars": 26
+            "stars": 27
           }
         }
       ],
@@ -437,7 +437,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5497
+                "stars": 5498
               }
             }
           ],
@@ -500,7 +500,7 @@
             "last_commit": "2026-01-29T16:48:19Z",
             "owner": "timmbogner",
             "repo": "Farm-Data-Relay-System",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-08-17T21:21:30Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2018-06-14T02:28:47Z",
             "owner": "autogrow",
             "repo": "openminder",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2023-06-06T02:09:12Z",
             "owner": "damwhit",
             "repo": "harvest_helper",
-            "stars": 88
+            "stars": 89
           }
         }
       ],
@@ -629,7 +629,7 @@
             "archived": false,
             "id": 17755890,
             "language": "Python",
-            "last_commit": "2026-08-21T16:29:48Z",
+            "last_commit": "2026-08-24T16:47:06Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 817
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 328
+            "stars": 330
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2019-05-27T14:13:18Z",
             "owner": "totti0223",
             "repo": "deep_learning_for_biologists_with_keras",
-            "stars": 107
+            "stars": 108
           }
         }
       ],
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:12.434Z",
+    "last_updated": "2026-08-25T06:01:30.630Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
