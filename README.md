@@ -85,7 +85,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Farm Management Systems and Record Keeping
 
-* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,340 | 🐛 61 | 🌐 PHP | 📅 2026-08-18 - Web-based farm record keeping application built with Drupal and PHP.
+* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,341 | 🐛 61 | 🌐 PHP | 📅 2026-08-18 - Web-based farm record keeping application built with Drupal and PHP.
 * [Tania](https://github.com/Tanibox/tania-core) ⭐ 819 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 489 | 🐛 9 | 🌐 Ruby | 📅 2026-07-26 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 * [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 237 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-24 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,498 | 🐛 61 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,499 | 🐛 61 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
