@@ -12,10 +12,10 @@
             "archived": false,
             "id": 501080115,
             "language": "C++",
-            "last_commit": "2026-08-23T16:21:12Z",
+            "last_commit": "2026-08-25T12:05:28Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 871
+            "stars": 872
           }
         }
       ],
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-24T19:00:00Z",
+            "last_commit": "2026-08-25T20:00:32Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 193
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 54595470,
             "language": "R",
-            "last_commit": "2026-08-13T14:14:23Z",
+            "last_commit": "2026-08-26T05:15:09Z",
             "owner": "ncss-tech",
             "repo": "soilDB",
             "stars": 100
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 234744683,
             "language": "Java",
-            "last_commit": "2026-08-18T07:05:34Z",
+            "last_commit": "2026-08-25T12:02:26Z",
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
             "stars": 3
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T22:54:55Z",
+            "last_commit": "2026-08-25T20:25:01Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 237
@@ -437,7 +437,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5499
+                "stars": 5500
               }
             }
           ],
@@ -614,7 +614,7 @@
             "archived": false,
             "id": 533452400,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-22T16:56:49Z",
+            "last_commit": "2026-08-25T12:21:32Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
             "stars": 895
@@ -629,7 +629,7 @@
             "archived": false,
             "id": 17755890,
             "language": "Python",
-            "last_commit": "2026-08-24T16:47:06Z",
+            "last_commit": "2026-08-25T20:03:22Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 817
@@ -662,7 +662,7 @@
             "last_commit": "2026-08-13T22:41:50Z",
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 330
+            "stars": 332
           }
         },
         {
@@ -766,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:50:08.373Z",
+    "last_updated": "2026-08-26T11:52:07.512Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "original_repository_id": 131012870,
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
