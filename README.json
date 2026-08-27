@@ -12,10 +12,10 @@
             "archived": false,
             "id": 501080115,
             "language": "C++",
-            "last_commit": "2026-08-25T12:05:28Z",
+            "last_commit": "2026-08-27T09:54:06Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 872
+            "stars": 874
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-25T20:00:32Z",
+            "last_commit": "2026-08-27T03:55:34Z",
             "owner": "akrherz",
             "repo": "iem",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 54595470,
             "language": "R",
-            "last_commit": "2026-08-26T05:15:09Z",
+            "last_commit": "2026-08-27T00:06:32Z",
             "owner": "ncss-tech",
             "repo": "soilDB",
             "stars": 100
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 1051971535,
             "language": "Rust",
-            "last_commit": "2026-07-29T01:31:25Z",
+            "last_commit": "2026-08-26T20:25:24Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "botanica",
             "stars": 20
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 306081580,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:49:13Z",
+            "last_commit": "2026-08-26T21:00:30Z",
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-NodeJS-Example",
             "stars": 3
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 368324594,
             "language": "C#",
-            "last_commit": "2026-08-14T17:44:53Z",
+            "last_commit": "2026-08-26T18:38:41Z",
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
             "stars": 0
@@ -351,10 +351,10 @@
             "archived": false,
             "id": 16508135,
             "language": "PHP",
-            "last_commit": "2026-08-18T20:55:11Z",
+            "last_commit": "2026-08-26T20:07:38Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1341
+            "stars": 1342
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T20:25:01Z",
+            "last_commit": "2026-08-26T20:58:50Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -437,7 +437,7 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5500
+                "stars": 5502
               }
             }
           ],
@@ -614,7 +614,7 @@
             "archived": false,
             "id": 533452400,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T12:21:32Z",
+            "last_commit": "2026-08-27T00:14:55Z",
             "owner": "microsoft",
             "repo": "farmvibes-ai",
             "stars": 895
@@ -713,7 +713,7 @@
             "last_commit": "2026-06-04T14:59:54Z",
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2240
+            "stars": 2241
           }
         },
         {
@@ -766,9 +766,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:52:07.512Z",
-    "original_repository": "brycejohnston/awesome-agriculture",
-    "original_repository_id": 131012870,
+    "last_updated": "2026-08-27T11:19:30.871Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 131012870,
+      "language": null,
+      "last_commit": "2026-01-05T18:48:16Z",
+      "owner": "brycejohnston",
+      "repo": "awesome-agriculture",
+      "stars": 1864
+    },
     "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
     "enhanced_repository": "enhansome/enhansome-agriculture",
     "enhanced_repository_description": null,
