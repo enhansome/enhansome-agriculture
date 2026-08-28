@@ -16,7 +16,8 @@
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Automation and Robotics"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 4253774,
             "language": "Python",
-            "last_commit": "2026-08-27T17:14:16Z",
+            "last_commit": "2026-08-28T17:39:17Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "woodcrafty",
             "repo": "PyETo",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "hectornieto",
             "repo": "pyTSEB",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "waldoj",
             "repo": "frostline",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ncss-tech",
             "repo": "soilDB",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "ropensci",
             "repo": "GSODR",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "brycejohnston",
             "repo": "agroclimatology",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "brycejohnston",
             "repo": "evapotranspiration",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Climate, Environment and Weather"
@@ -163,7 +172,8 @@
             "owner": "nasaharvest",
             "repo": "cropharvest",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2024-03-14T08:23:25Z",
             "owner": "saeedkhaki92",
             "repo": "CNN-RNN-Yield-Prediction",
-            "stars": 165
-          }
+            "stars": 164
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "cwfid",
             "repo": "dataset",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Datasets"
@@ -214,7 +226,8 @@
             "owner": "JohnDeere",
             "repo": "SampleData",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Python-Example",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 1051971535,
             "language": "HTML",
-            "last_commit": "2026-08-27T20:23:28Z",
+            "last_commit": "2026-08-28T14:53:35Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "botanica",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "aWhereAPI",
             "repo": "API-Code-Samples",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-NodeJS-Example",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "sencrop",
             "repo": "sencrop-js-api-client",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "DTNClearAg",
             "repo": "clearag_api_examples",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Data Standardization, Interoperability and APIs"
@@ -355,7 +376,8 @@
             "owner": "farmOS",
             "repo": "farmOS",
             "stars": 1342
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "usetania",
             "repo": "tania-core",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "ekylibre",
             "repo": "ekylibre",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -396,11 +420,12 @@
             "archived": false,
             "id": 280231763,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T18:33:06Z",
+            "last_commit": "2026-08-28T17:59:42Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "Open-Source-Agriculture",
             "repo": "soil_logr",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Farm Management Systems and Record Keeping"
@@ -437,8 +463,9 @@
                 "last_commit": "2026-07-21T09:10:54Z",
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5502
-              }
+                "stars": 5503
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
             }
           ],
           "description": null,
@@ -459,8 +486,9 @@
                 "last_commit": "2026-08-18T09:17:02Z",
                 "owner": "GeospatialPython",
                 "repo": "pyshp",
-                "stars": 1153
-              }
+                "stars": 1154
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
             },
             {
               "node_type": "item",
@@ -475,7 +503,8 @@
                 "owner": "rgeo",
                 "repo": "rgeo-shapefile",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
             }
           ],
           "description": null,
@@ -501,7 +530,8 @@
             "owner": "timmbogner",
             "repo": "Farm-Data-Relay-System",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -516,7 +546,8 @@
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -531,7 +562,8 @@
             "owner": "autogrow",
             "repo": "openminder",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -546,7 +578,8 @@
             "owner": "matmis",
             "repo": "simplesteer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -561,7 +594,8 @@
             "owner": "arifulmrislam",
             "repo": "Smart-farming-dashboard-with-ThingsBoard",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "IoT, Hardware"
@@ -582,7 +616,8 @@
             "owner": "openfarmcc",
             "repo": "OpenFarm",
             "stars": 1731
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -597,7 +632,8 @@
             "owner": "damwhit",
             "repo": "harvest_helper",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Knowledgebases and Learning Resources"
@@ -618,7 +654,8 @@
             "owner": "microsoft",
             "repo": "farmvibes-ai",
             "stars": 895
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -632,8 +669,9 @@
             "last_commit": "2026-08-25T20:03:22Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 817
-          }
+            "stars": 819
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -647,8 +685,9 @@
             "last_commit": "2023-05-27T09:09:30Z",
             "owner": "JiaxuanYou",
             "repo": "crop_yield_prediction",
-            "stars": 422
-          }
+            "stars": 421
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -663,7 +702,8 @@
             "owner": "Project-AgML",
             "repo": "AgML",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -678,7 +718,8 @@
             "owner": "kwstat",
             "repo": "agridat",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -693,7 +734,8 @@
             "owner": "totti0223",
             "repo": "deep_learning_for_biologists_with_keras",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Machine Learning and AI"
@@ -714,7 +756,8 @@
             "owner": "azavea",
             "repo": "raster-vision",
             "stars": 2241
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -729,7 +772,8 @@
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -744,7 +788,8 @@
             "owner": "Sen2Agri",
             "repo": "Sen2Agri-System",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         },
         {
           "node_type": "item",
@@ -759,14 +804,15 @@
             "owner": "px39n",
             "repo": "Awesome-Vegetation-Index",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
         }
       ],
       "title": "Remote Sensing and Imagery"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:54.424Z",
+    "last_updated": "2026-08-28T21:27:38.471Z",
     "original_repository_info": {
       "archived": false,
       "id": 131012870,
