@@ -544,7 +544,7 @@
             "id": 368324594,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-08-26T18:38:41Z",
+            "last_commit": "2026-08-29T12:42:03Z",
             "open_issues": 7,
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -575,7 +575,7 @@
             "open_issues": 61,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1342,
+            "stars": 1343,
             "topics": [
               "agriculture",
               "crops",
@@ -735,7 +735,7 @@
                 "open_issues": 63,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5503,
+                "stars": 5504,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:15.838Z",
+    "last_updated": "2026-08-29T15:40:22.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
