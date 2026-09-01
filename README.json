@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-30T20:09:15Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -575,7 +575,7 @@
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1343,
+            "stars": 1344,
             "topics": [
               "agriculture",
               "crops",
@@ -668,7 +668,7 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T17:35:00Z",
+            "last_commit": "2026-08-31T23:14:30Z",
             "open_issues": 36,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
@@ -732,10 +732,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5506,
+                "stars": 5508,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1051,7 +1051,7 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-25T20:03:22Z",
+            "last_commit": "2026-09-01T15:21:35Z",
             "open_issues": 135,
             "owner": "danforthcenter",
             "repo": "plantcv",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T18:02:29.581Z",
+    "last_updated": "2026-09-01T15:29:24.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
