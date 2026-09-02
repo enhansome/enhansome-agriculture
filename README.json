@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-30T20:09:15Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
             "stars": 880,
@@ -48,7 +48,7 @@
             "id": 4253774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:27:38Z",
+            "last_commit": "2026-09-01T22:04:18Z",
             "open_issues": 107,
             "owner": "akrherz",
             "repo": "iem",
@@ -98,7 +98,7 @@
             "open_issues": 3,
             "owner": "hectornieto",
             "repo": "pyTSEB",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "canopy",
               "evapotranspiration",
@@ -575,7 +575,7 @@
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1344,
+            "stars": 1345,
             "topics": [
               "agriculture",
               "crops",
@@ -668,8 +668,8 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T23:14:30Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-02T10:03:32Z",
+            "open_issues": 37,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 238,
@@ -735,7 +735,7 @@
                 "open_issues": 67,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5508,
+                "stars": 5511,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1051,7 +1051,7 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-01T15:21:35Z",
+            "last_commit": "2026-09-01T18:36:16Z",
             "open_issues": 135,
             "owner": "danforthcenter",
             "repo": "plantcv",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:29:24.438Z",
+    "last_updated": "2026-09-02T15:09:34.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 15,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1866,
+      "stars": 1867,
       "topics": [
         "agricultural",
         "agriculture",
