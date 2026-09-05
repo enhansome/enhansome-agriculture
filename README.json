@@ -15,11 +15,11 @@
             "id": 501080115,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T21:04:48Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-04T17:16:09Z",
+            "open_issues": 31,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -48,7 +48,7 @@
             "id": 4253774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T16:58:43Z",
+            "last_commit": "2026-09-04T18:40:07Z",
             "open_issues": 107,
             "owner": "akrherz",
             "repo": "iem",
@@ -575,7 +575,7 @@
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1345,
+            "stars": 1344,
             "topics": [
               "agriculture",
               "crops",
@@ -606,7 +606,7 @@
             "open_issues": 37,
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 818,
+            "stars": 817,
             "topics": [
               "ddd-architecture",
               "end-user",
@@ -634,7 +634,7 @@
             "id": 2196186,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-27T18:46:09Z",
+            "last_commit": "2026-09-05T10:58:20Z",
             "open_issues": 9,
             "owner": "ekylibre",
             "repo": "ekylibre",
@@ -668,7 +668,7 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T23:09:41Z",
+            "last_commit": "2026-09-04T23:32:56Z",
             "open_issues": 32,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
@@ -735,7 +735,7 @@
                 "open_issues": 68,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5512,
+                "stars": 5513,
                 "topics": [
                   "awesome",
                   "geo",
@@ -864,7 +864,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 493,
+            "stars": 495,
             "topics": [
               "agriculture",
               "diy"
@@ -992,7 +992,7 @@
             "open_issues": 22,
             "owner": "damwhit",
             "repo": "harvest_helper",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "agriculture",
               "farming",
@@ -1051,7 +1051,7 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-03T17:40:09Z",
+            "last_commit": "2026-09-04T19:41:11Z",
             "open_issues": 131,
             "owner": "danforthcenter",
             "repo": "plantcv",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:01:05.868Z",
+    "last_updated": "2026-09-05T13:54:42.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
