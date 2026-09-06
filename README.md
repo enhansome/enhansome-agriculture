@@ -4,7 +4,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,867 | 🐛 17 | 📅 2026-01-05.
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,868 | 🐛 18 | 📅 2026-01-05.
 
 ## Contents
 
@@ -45,7 +45,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 * [PyETo](https://github.com/woodcrafty/PyETo) ⭐ 180 | 🐛 5 | 🌐 Python | 📅 2022-08-31 - Python package for calculating reference/potential evapotranspiration (ETo).
 * [pyTSEB](https://github.com/hectornieto/pyTSEB) ⭐ 169 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-31 - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
 * [frostline](https://github.com/waldoj/frostline) ⭐ 165 | 🐛 13 | 🌐 HTML | 📅 2026-08-25 - A dataset, API, and python parser for USDA plant hardiness zones.
-* [soilDB](https://github.com/ncss-tech/soilDB) ⭐ 100 | 🐛 30 | 🌐 R | 📅 2026-08-27 - R library for simplified access to NCSS soil databases.
+* [soilDB](https://github.com/ncss-tech/soilDB) ⭐ 100 | 🐛 30 | 🌐 R | 📅 2026-09-05 - R library for simplified access to NCSS soil databases.
 * [GSODR](https://github.com/ropensci/GSODR) ⭐ 98 | 🐛 0 | 🌐 R | 📅 2026-05-17 - Global summary daily weather data in R.
 * [agroclimatology](https://github.com/brycejohnston/agroclimatology) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2017-08-30 - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
 * [evapotranspiration](https://github.com/brycejohnston/evapotranspiration) ⭐ 15 | 🐛 0 | 🌐 Ruby | 📅 2017-08-30 - Ruby library for calculating reference crop evapotranspiration (ETo).
@@ -86,7 +86,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Farm Management Systems and Record Keeping
 
 * [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,344 | 🐛 62 | 🌐 PHP | 📅 2026-09-02 - Web-based farm record keeping application built with Drupal and PHP.
-* [Tania](https://github.com/Tanibox/tania-core) ⭐ 817 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
+* [Tania](https://github.com/Tanibox/tania-core) ⭐ 818 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 489 | 🐛 9 | 🌐 Ruby | 📅 2026-09-05 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 * [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 238 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-04 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 * [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) ⭐ 27 | 🐛 7 | 🌐 Dart | 📅 2021-04-05 - Helper app designed to assist the collection of soil data.
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,513 | 🐛 68 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,514 | 🐛 68 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -127,7 +127,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Machine Learning and AI
 
 * [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 895 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-08-27 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 820 | 🐛 131 | 🌐 Python | 📅 2026-09-04 - Plant phenotyping software using computer vision.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 820 | 🐛 127 | 🌐 Python | 📅 2026-09-06 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 421 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 332 | 🐛 14 | 🌐 Python | 📅 2026-08-13 - Centralized framework for agricultural machine learning.
 * [agridat](https://github.com/kwstat/agridat) ⭐ 147 | 🐛 0 | 🌐 R | 📅 2026-07-22 - R package providing an extensive collection of datasets from agricultural experiments.
@@ -148,4 +148,4 @@ To the extent possible under law, [Bryce Johnston](https://github.com/brycejohns
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

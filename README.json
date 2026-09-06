@@ -150,7 +150,7 @@
             "id": 54595470,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T00:06:32Z",
+            "last_commit": "2026-09-05T16:48:24Z",
             "open_issues": 30,
             "owner": "ncss-tech",
             "repo": "soilDB",
@@ -606,7 +606,7 @@
             "open_issues": 37,
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "ddd-architecture",
               "end-user",
@@ -735,7 +735,7 @@
                 "open_issues": 68,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5513,
+                "stars": 5514,
                 "topics": [
                   "awesome",
                   "geo",
@@ -965,7 +965,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1732,
+            "stars": 1733,
             "topics": [
               "farming",
               "gardening",
@@ -1051,8 +1051,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T19:41:11Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-06T14:14:08Z",
+            "open_issues": 127,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 820,
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:54:42.222Z",
+    "last_updated": "2026-09-06T14:15:19.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1298,10 +1298,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-01-05T18:48:16Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1867,
+      "stars": 1868,
       "topics": [
         "agricultural",
         "agriculture",
