@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -48,7 +48,7 @@
             "id": 4253774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T18:40:07Z",
+            "last_commit": "2026-09-08T14:24:09Z",
             "open_issues": 107,
             "owner": "akrherz",
             "repo": "iem",
@@ -123,7 +123,7 @@
             "id": 36908386,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-08-25T03:04:18Z",
+            "last_commit": "2026-09-08T13:54:12Z",
             "open_issues": 13,
             "owner": "waldoj",
             "repo": "frostline",
@@ -289,27 +289,6 @@
         },
         {
           "node_type": "item",
-          "title": "SoybeanYield",
-          "description": "A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains codes for the paper entitled \"A CNN-RNN Framework for Crop Yield Prediction\"",
-            "homepage": null,
-            "id": 217547953,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-03-14T08:23:25Z",
-            "open_issues": 11,
-            "owner": "saeedkhaki92",
-            "repo": "CNN-RNN-Yield-Prediction",
-            "stars": 164,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:27:38.471Z"
-        },
-        {
-          "node_type": "item",
           "title": "CWFID",
           "description": "Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.",
           "children": [],
@@ -337,6 +316,27 @@
               "segmentation",
               "weed"
             ]
+          },
+          "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SoybeanYield",
+          "description": "A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository contains codes for the paper entitled \"A CNN-RNN Framework for Crop Yield Prediction\"",
+            "homepage": null,
+            "id": 217547953,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-03-14T08:23:25Z",
+            "open_issues": 9,
+            "owner": "saeedkhaki92",
+            "repo": "CNN-RNN-Yield-Prediction",
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
         }
@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-04T11:54:32Z",
+            "last_commit": "2026-09-07T22:47:48Z",
             "open_issues": 10,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -475,7 +475,7 @@
             "id": 306081580,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T20:00:11Z",
+            "last_commit": "2026-09-07T23:14:41Z",
             "open_issues": 25,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-NodeJS-Example",
@@ -544,7 +544,7 @@
             "id": 368324594,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-07T10:58:53Z",
+            "last_commit": "2026-09-08T14:33:21Z",
             "open_issues": 7,
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -575,7 +575,7 @@
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1347,
+            "stars": 1346,
             "topics": [
               "agriculture",
               "crops",
@@ -638,7 +638,7 @@
             "open_issues": 9,
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "agriculture",
               "agtech",
@@ -668,7 +668,7 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T23:32:56Z",
+            "last_commit": "2026-09-07T18:45:50Z",
             "open_issues": 32,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
@@ -732,7 +732,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 68,
+                "open_issues": 67,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
                 "stars": 5516,
@@ -864,7 +864,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 495,
+            "stars": 496,
             "topics": [
               "agriculture",
               "diy"
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 820,
+            "stars": 822,
             "topics": [
               "bioinformatics",
               "image-analysis",
@@ -1103,7 +1103,7 @@
             "open_issues": 14,
             "owner": "Project-AgML",
             "repo": "AgML",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "agriculture",
               "computer-vision",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:33:11.983Z",
+    "last_updated": "2026-09-08T15:11:45.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 18,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1869,
+      "stars": 1870,
       "topics": [
         "agricultural",
         "agriculture",
