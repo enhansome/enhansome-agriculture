@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -150,8 +150,8 @@
             "id": 54595470,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T17:51:22Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-18T00:17:34Z",
+            "open_issues": 31,
             "owner": "ncss-tech",
             "repo": "soilDB",
             "stars": 100,
@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-17T04:52:11Z",
+            "last_commit": "2026-09-18T04:52:41Z",
             "open_issues": 4,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -575,7 +575,7 @@
             "open_issues": 60,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1351,
+            "stars": 1353,
             "topics": [
               "agriculture",
               "crops",
@@ -638,7 +638,7 @@
             "open_issues": 9,
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "agriculture",
               "agtech",
@@ -668,11 +668,11 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T23:42:07Z",
+            "last_commit": "2026-09-17T23:38:26Z",
             "open_issues": 32,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "agriculture",
               "farming",
@@ -732,10 +732,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5527,
+                "stars": 5528,
                 "topics": [
                   "awesome",
                   "geo",
@@ -864,7 +864,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 497,
+            "stars": 496,
             "topics": [
               "agriculture",
               "diy"
@@ -1024,7 +1024,7 @@
             "open_issues": 43,
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 897,
+            "stars": 899,
             "topics": [
               "agriculture",
               "ai",
@@ -1051,8 +1051,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-16T15:06:16Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-18T15:02:21Z",
+            "open_issues": 85,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 824,
@@ -1224,7 +1224,7 @@
             "open_issues": 4,
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:34:41.040Z",
+    "last_updated": "2026-09-18T15:03:15.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1298,10 +1298,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-01-05T18:48:16Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1879,
+      "stars": 1881,
       "topics": [
         "agricultural",
         "agriculture",
