@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-19T11:06:36Z",
+            "last_commit": "2026-09-20T13:50:53Z",
             "open_issues": 4,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -544,7 +544,7 @@
             "id": 368324594,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-16T11:27:52Z",
+            "last_commit": "2026-09-20T08:03:15Z",
             "open_issues": 7,
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -575,7 +575,7 @@
             "open_issues": 60,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1353,
+            "stars": 1354,
             "topics": [
               "agriculture",
               "crops",
@@ -732,10 +732,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5527,
+                "stars": 5529,
                 "topics": [
                   "awesome",
                   "geo",
@@ -965,7 +965,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "farming",
               "gardening",
@@ -1051,11 +1051,11 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-19T13:25:58Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-19T17:12:20Z",
+            "open_issues": 76,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 824,
+            "stars": 826,
             "topics": [
               "bioinformatics",
               "image-analysis",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:31:59.171Z",
+    "last_updated": "2026-09-20T14:44:44.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 19,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1881,
+      "stars": 1882,
       "topics": [
         "agricultural",
         "agriculture",
