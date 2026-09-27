@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-26T13:47:59Z",
+            "last_commit": "2026-09-27T13:27:14Z",
             "open_issues": 4,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -575,7 +575,7 @@
             "open_issues": 56,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1357,
+            "stars": 1358,
             "topics": [
               "agriculture",
               "crops",
@@ -735,7 +735,7 @@
                 "open_issues": 81,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5541,
+                "stars": 5542,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1051,8 +1051,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-25T17:06:27Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-27T14:51:17Z",
+            "open_issues": 62,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 830,
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T15:01:26.831Z",
+    "last_updated": "2026-09-27T15:41:36.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 20,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1886,
+      "stars": 1888,
       "topics": [
         "agricultural",
         "agriculture",
