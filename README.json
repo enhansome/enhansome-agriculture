@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-03T01:01:46Z",
+            "last_commit": "2026-10-03T13:52:19Z",
             "open_issues": 5,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -571,7 +571,7 @@
             "id": 16508135,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T01:35:21Z",
+            "last_commit": "2026-10-03T14:09:21Z",
             "open_issues": 56,
             "owner": "farmOS",
             "repo": "farmOS",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:22:47.530Z",
+    "last_updated": "2026-10-03T15:10:01.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
