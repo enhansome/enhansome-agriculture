@@ -52,7 +52,7 @@
             "open_issues": 109,
             "owner": "akrherz",
             "repo": "iem",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "iowa",
               "mesonet",
@@ -127,7 +127,7 @@
             "open_issues": 13,
             "owner": "waldoj",
             "repo": "frostline",
-            "stars": 166,
+            "stars": 165,
             "topics": [
               "api",
               "farm",
@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-03T13:52:19Z",
+            "last_commit": "2026-10-04T13:46:02Z",
             "open_issues": 5,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -735,7 +735,7 @@
                 "open_issues": 88,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5549,
+                "stars": 5548,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1051,8 +1051,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-03T03:37:48Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-03T22:02:44Z",
+            "open_issues": 63,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 834,
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:10:01.516Z",
+    "last_updated": "2026-10-04T15:52:15.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1298,10 +1298,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-01-05T18:48:16Z",
-      "open_issues": 21,
+      "open_issues": 20,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1893,
+      "stars": 1894,
       "topics": [
         "agricultural",
         "agriculture",
