@@ -94,7 +94,7 @@
             "id": 49656575,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T13:20:24Z",
+            "last_commit": "2026-10-16T11:10:35Z",
             "open_issues": 3,
             "owner": "hectornieto",
             "repo": "pyTSEB",
@@ -282,7 +282,7 @@
             "open_issues": 37,
             "owner": "nasaharvest",
             "repo": "cropharvest",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
@@ -544,7 +544,7 @@
             "id": 368324594,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-14T10:09:36Z",
+            "last_commit": "2026-10-15T15:46:07Z",
             "open_issues": 7,
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -572,10 +572,10 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-10-14T21:49:09Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "agriculture",
               "crops",
@@ -668,7 +668,7 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T16:06:19Z",
+            "last_commit": "2026-10-15T22:50:31Z",
             "open_issues": 31,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
@@ -735,7 +735,7 @@
                 "open_issues": 104,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5573,
+                "stars": 5574,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1051,8 +1051,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-13T18:51:56Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-16T14:38:48Z",
+            "open_issues": 69,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 834,
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:38:57.380Z",
+    "last_updated": "2026-10-16T15:24:41.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
