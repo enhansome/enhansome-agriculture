@@ -362,7 +362,7 @@
             "open_issues": 0,
             "owner": "JohnDeere",
             "repo": "SampleData",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
@@ -454,8 +454,8 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-17T13:57:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-18T13:29:31Z",
+            "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
             "stars": 3,
@@ -575,7 +575,7 @@
             "open_issues": 55,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "agriculture",
               "crops",
@@ -606,7 +606,7 @@
             "open_issues": 37,
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 822,
+            "stars": 823,
             "topics": [
               "ddd-architecture",
               "end-user",
@@ -638,7 +638,7 @@
             "open_issues": 10,
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "agriculture",
               "agtech",
@@ -672,7 +672,7 @@
             "open_issues": 31,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "agriculture",
               "farming",
@@ -698,7 +698,7 @@
             "open_issues": 7,
             "owner": "Open-Source-Agriculture",
             "repo": "soil_logr",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "agriculture",
               "environmental-science",
@@ -735,7 +735,7 @@
                 "open_issues": 105,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5573,
+                "stars": 5574,
                 "topics": [
                   "awesome",
                   "geo",
@@ -825,7 +825,7 @@
             "open_issues": 7,
             "owner": "timmbogner",
             "repo": "Farm-Data-Relay-System",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "agriculture",
               "agritech",
@@ -860,11 +860,11 @@
             "id": 399194159,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:42:28Z",
+            "last_commit": "2026-10-17T21:27:30Z",
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "agriculture",
               "diy"
@@ -965,7 +965,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1731,
+            "stars": 1732,
             "topics": [
               "farming",
               "gardening",
@@ -1024,7 +1024,7 @@
             "open_issues": 44,
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 901,
+            "stars": 902,
             "topics": [
               "agriculture",
               "ai",
@@ -1051,11 +1051,11 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T16:07:33Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-17T22:17:49Z",
+            "open_issues": 46,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "bioinformatics",
               "image-analysis",
@@ -1224,7 +1224,7 @@
             "open_issues": 5,
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 584,
+            "stars": 585,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:17:34.063Z",
+    "last_updated": "2026-10-18T14:41:42.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 27,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1903,
+      "stars": 1905,
       "topics": [
         "agricultural",
         "agriculture",
