@@ -72,11 +72,11 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 * [MyJohnDeereAPI-OAuth2-Python-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - Python MyJohnDeere API client example.
 * [Botanica](https://github.com/Michael-A-Kuykendall/botanica) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2026-08-28 - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 * [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2019-01-10 - Contains aWhere's API platform code samples.
-* [MyJohnDeereAPI-OAuth2-Java-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example) ⭐ 3 | 🐛 6 | 🌐 Java | 📅 2026-10-23 - Java MyJohnDeere API client example.
+* [MyJohnDeereAPI-OAuth2-Java-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example) ⭐ 3 | 🐛 6 | 🌐 Java | 📅 2026-10-24 - Java MyJohnDeere API client example.
 * [MyJohnDeereAPI-OAuth2-NodeJS-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-NodeJS-Example) ⭐ 3 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-22 - Node.js MyJohnDeere API client example.
 * [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) ⚠️ Archived - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 * [ClearAg-API-Examples](https://github.com/IterisClearAg/ClearAg-API-Examples) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-17 - A collection of code examples using the ClearAg APIs.
-* [JDLinkMachineDataAPI-OAuth2-CSharp-Example](https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example) ⭐ 0 | 🐛 7 | 🌐 C# | 📅 2026-10-22 - CSharp JDLink Machine Data API client example.
+* [JDLinkMachineDataAPI-OAuth2-CSharp-Example](https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example) ⭐ 0 | 🐛 7 | 🌐 C# | 📅 2026-10-23 - CSharp JDLink Machine Data API client example.
 * [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
 * [Agstack](https://github.com/agstack) - Open-Source Digital Infrastructure for the Agriculture Ecosystem.
 * [Fiware AgriFood](https://www.fiware.org/community/smart-agrifood/) - Open Source data standards and IoT framework that help connect farm systems and enable practical smart farming and agrifood solutions—part of the larger Fiware.org project.
@@ -85,10 +85,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Farm Management Systems and Record Keeping
 
-* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,379 | 🐛 54 | 🌐 PHP | 📅 2026-10-21 - Web-based farm record keeping application built with Drupal and PHP.
+* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,378 | 🐛 53 | 🌐 PHP | 📅 2026-10-21 - Web-based farm record keeping application built with Drupal and PHP.
 * [Tania](https://github.com/Tanibox/tania-core) ⭐ 823 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
-* [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 493 | 🐛 10 | 🌐 Ruby | 📅 2026-10-11 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 249 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-22 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+* [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 493 | 🐛 10 | 🌐 Ruby | 📅 2026-10-24 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
+* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 249 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-23 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 * [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) ⭐ 29 | 🐛 7 | 🌐 Dart | 📅 2021-04-05 - Helper app designed to assist the collection of soil data.
 * [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
 
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,590 | 🐛 114 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,592 | 🐛 114 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -110,7 +110,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## IoT, Hardware
 
 * [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) ⭐ 630 | 🐛 7 | 🌐 C | 📅 2026-01-29 - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
-* [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) ⭐ 503 | 🐛 18 | 🌐 Python | 📅 2026-10-19 - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
+* [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) ⭐ 504 | 🐛 18 | 🌐 Python | 📅 2026-10-19 - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 * [OpenMinder](https://github.com/autogrow/openminder) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2018-06-14 - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 * [Smart Farming Thingsboard](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) ⭐ 7 | 🐛 0 | 📅 2022-05-05 - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
 * [Simplesteer](https://github.com/matmis/simplesteer) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-12 - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
@@ -126,8 +126,8 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Machine Learning and AI
 
-* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 904 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 835 | 🐛 47 | 🌐 Python | 📅 2026-10-22 - Plant phenotyping software using computer vision.
+* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 905 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 835 | 🐛 45 | 🌐 Python | 📅 2026-10-23 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 422 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 350 | 🐛 15 | 🌐 Python | 📅 2026-10-22 - Centralized framework for agricultural machine learning.
 * [agridat](https://github.com/kwstat/agridat) ⭐ 148 | 🐛 0 | 🌐 R | 📅 2026-10-12 - R package providing an extensive collection of datasets from agricultural experiments.
@@ -148,4 +148,4 @@ To the extent possible under law, [Bryce Johnston](https://github.com/brycejohns
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
