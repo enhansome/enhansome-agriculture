@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-24T08:39:13Z",
+            "last_commit": "2026-10-25T12:24:42Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -634,8 +634,8 @@
             "id": 2196186,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T14:23:51Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-24T15:46:06Z",
+            "open_issues": 11,
             "owner": "ekylibre",
             "repo": "ekylibre",
             "stars": 493,
@@ -735,7 +735,7 @@
                 "open_issues": 114,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5592,
+                "stars": 5594,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1024,7 +1024,7 @@
             "open_issues": 44,
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 905,
+            "stars": 904,
             "topics": [
               "agriculture",
               "ai",
@@ -1051,11 +1051,11 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-23T21:53:43Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-24T17:15:59Z",
+            "open_issues": 44,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "bioinformatics",
               "image-analysis",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:40:38.431Z",
+    "last_updated": "2026-10-25T14:58:46.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
