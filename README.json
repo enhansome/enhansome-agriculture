@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 915,
+            "stars": 918,
             "topics": [
               "agriculture",
               "autonomous-vehicles",
@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-25T12:24:42Z",
+            "last_commit": "2026-10-26T11:15:35Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -544,7 +544,7 @@
             "id": 368324594,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-23T17:31:34Z",
+            "last_commit": "2026-10-26T05:43:41Z",
             "open_issues": 7,
             "owner": "JohnDeere",
             "repo": "ISO-15143-3-API-OAuth2-CSharp-Example",
@@ -575,7 +575,7 @@
             "open_issues": 53,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1378,
+            "stars": 1379,
             "topics": [
               "agriculture",
               "crops",
@@ -634,8 +634,8 @@
             "id": 2196186,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T15:46:06Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-25T20:31:38Z",
+            "open_issues": 10,
             "owner": "ekylibre",
             "repo": "ekylibre",
             "stars": 493,
@@ -732,10 +732,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 114,
+                "open_issues": 116,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5594,
+                "stars": 5596,
                 "topics": [
                   "awesome",
                   "geo",
@@ -864,7 +864,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "agriculture",
               "diy"
@@ -1051,11 +1051,11 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T17:15:59Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-26T15:29:36Z",
+            "open_issues": 64,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "bioinformatics",
               "image-analysis",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:58:46.265Z",
+    "last_updated": "2026-10-26T17:28:25.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 29,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1911,
+      "stars": 1912,
       "topics": [
         "agricultural",
         "agriculture",
