@@ -454,7 +454,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-07T13:11:34Z",
+            "last_commit": "2026-11-08T14:07:54Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -732,10 +732,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5616,
+                "stars": 5618,
                 "topics": [
                   "awesome",
                   "geo",
@@ -864,7 +864,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "agriculture",
               "diy"
@@ -965,7 +965,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "farming",
               "gardening",
@@ -1024,7 +1024,7 @@
             "open_issues": 34,
             "owner": "microsoft",
             "repo": "farmvibes-ai",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "agriculture",
               "ai",
@@ -1193,7 +1193,7 @@
             "open_issues": 45,
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2245,
+            "stars": 2246,
             "topics": [
               "classification",
               "computer-vision",
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:55:25.492Z",
+    "last_updated": "2026-11-08T17:08:19.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1301,7 +1301,7 @@
       "open_issues": 35,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1912,
+      "stars": 1913,
       "topics": [
         "agricultural",
         "agriculture",
