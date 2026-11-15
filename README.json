@@ -29,9 +29,263 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Feldfreund Dev Kit",
+          "description": "Open source development platform for autonomous outdoor robotics and agricultural weeding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A sturdy development platform for autonomous outdoor robotics made by Zauberzeug",
+            "homepage": "https://zauberzeug.com/products/field-friend-dev-kit",
+            "id": 1078168870,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-23T10:50:23Z",
+            "open_issues": 0,
+            "owner": "zauberzeug",
+            "repo": "feldfreund_devkit",
+            "stars": 11,
+            "topics": [
+              "feldfreund",
+              "robotics",
+              "rosys"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Field Mission Planner",
+          "description": "Open-source spraying route planner for ArduPilot drones (coverage routes around obstacles, MAVLink upload, offline).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ArduCopter field-coverage mission planner + MAVLink GCS for agricultural spraying — draw a field, generate a boustrophedon route, export .plan/.waypoints or live-upload with telemetry. Planner runs offline (satellite map needs internet or pre-cache). PWA + Android/iOS + desktop.",
+            "homepage": "https://tecelskyyivan-alt.github.io/ardu-field-planner/",
+            "id": 1298164640,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-14T21:54:52Z",
+            "open_issues": 23,
+            "owner": "tecelskyyivan-alt",
+            "repo": "ardu-field-planner",
+            "stars": 5,
+            "topics": [
+              "agriculture",
+              "arducopter",
+              "ardupilot",
+              "coverage-path-planning",
+              "drone",
+              "elrs",
+              "fpv",
+              "gcs",
+              "gcs-services",
+              "mavlink",
+              "mission-planner",
+              "offline-first",
+              "precision-agriculture",
+              "pwa",
+              "spraying",
+              "uav"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
         }
       ],
       "title": "Automation and Robotics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "farm-calculators",
+          "description": "WordPress plugin for calculating various farming and crop related information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Farm Calculators WordPress Plugin",
+            "homepage": "https://wordpress.org/plugins-wp/farm-calculators/",
+            "id": 44117959,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2017-05-01T18:52:33Z",
+            "open_issues": 0,
+            "owner": "brycejohnston",
+            "repo": "farm-calculators",
+            "stars": 24,
+            "topics": [
+              "agriculture",
+              "calculator",
+              "wordpress-plugin"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "yard-material-coverage-data",
+          "description": "Open landscape material coverage, density, and bag conversion data with a reusable calculator component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open cubic-yard coverage, material density, and bag conversion data for landscape planning",
+            "homepage": "https://demi-valerith.github.io/yard-material-coverage-data/",
+            "id": 1296139719,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-23T14:16:25Z",
+            "open_issues": 0,
+            "owner": "demi-valerith",
+            "repo": "yard-material-coverage-data",
+            "stars": 1,
+            "topics": [
+              "cubic-yards",
+              "dataset",
+              "gravel",
+              "landscaping",
+              "mulch",
+              "open-data",
+              "topsoil",
+              "yard-calculator"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CoverCalc Pro Landscape Quantity Kit",
+          "description": "MIT-licensed offline browser checker for landscape volumes and whole-bag counts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free offline landscape volume and mulch bag calculator. Check material quantities in a one-file browser tool; inspect the open formulas and source data.",
+            "homepage": "https://lydiatools.github.io/covercalcpro-landscape-quantity-kit/tools/landscape-volume-check.html",
+            "id": 1379900114,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-10-07T06:50:42Z",
+            "open_issues": 0,
+            "owner": "LydiaTools",
+            "repo": "covercalcpro-landscape-quantity-kit",
+            "stars": 0,
+            "topics": [
+              "bag-quantity",
+              "calculator",
+              "gardening",
+              "javascript",
+              "landscape-materials",
+              "landscaping",
+              "mulch",
+              "mulch-calculator",
+              "offline-first",
+              "soil",
+              "volume-calculator",
+              "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Direct Beef Tools",
+          "description": "Browser-only worksheet for comparing another-sale net value with direct-to-customer beef break-even and target prices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free cattle and direct-market beef pricing worksheet for independent ranchers",
+            "homepage": "https://cmhenry79.github.io/direct-beef-tools/",
+            "id": 1355226036,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-09-06T18:47:52Z",
+            "open_issues": 0,
+            "owner": "cmhenry79",
+            "repo": "direct-beef-tools",
+            "stars": 0,
+            "topics": [
+              "beef-pricing",
+              "calculator",
+              "cattle",
+              "direct-market",
+              "direct-to-consumer",
+              "farm-business",
+              "farm-calculator",
+              "livestock",
+              "local-food",
+              "ranch-management",
+              "ranching",
+              "small-farm"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flower-farm-math",
+          "description": "Zero-dependency JavaScript library for flower farm and farmer-florist math: wedding stem counts, costs-up CSA bouquet pricing, and a bloom-to-sales weekly reconciliation of stems cut vs. promised by variety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🌷 The open-source math behind Stemwise — wedding stem counts, CSA pricing & the bloom→sales weekly reconciliation for small flower farms & farmer-florists. Zero deps.",
+            "homepage": "https://getstemwise.com",
+            "id": 1268717446,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-20T07:19:18Z",
+            "open_issues": 0,
+            "owner": "SaschaHeyer",
+            "repo": "flower-farm-math",
+            "stars": 0,
+            "topics": [
+              "agriculture",
+              "csa",
+              "cut-flowers",
+              "farmer-florist",
+              "florist",
+              "flower-farm",
+              "flowers",
+              "wedding-flowers"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mycro-grow",
+          "description": "JavaScript library and CLI for gourmet mushroom cultivation math: substrate hydration, spawn ratio, biological-efficiency yield, and batch economics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍄 Grow math for gourmet & functional mushroom farms: hydration, spawn ratio, biological-efficiency yield, batch economics & substrate recipes. The open-source engine behind usemycro.com",
+            "homepage": "https://usemycro.com",
+            "id": 1268711776,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-10T09:57:54Z",
+            "open_issues": 0,
+            "owner": "SaschaHeyer",
+            "repo": "mycro-grow",
+            "stars": 0,
+            "topics": [
+              "agriculture",
+              "agtech",
+              "biological-efficiency",
+              "calculator",
+              "gourmet-mushrooms",
+              "mushroom",
+              "mushroom-cultivation",
+              "mushroom-farming",
+              "mycology",
+              "substrate"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        }
+      ],
+      "title": "Calculators"
     },
     {
       "description": null,
@@ -267,78 +521,163 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "CropHarvest",
-          "description": "Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open source remote sensing dataset with benchmarks",
-            "homepage": null,
-            "id": 377906448,
-            "language": "Jupyter Notebook",
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2024-04-30T14:12:20Z",
-            "open_issues": 37,
-            "owner": "nasaharvest",
-            "repo": "cropharvest",
-            "stars": 246,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:27:38.471Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CropHarvest",
+              "description": "Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source remote sensing dataset with benchmarks",
+                "homepage": null,
+                "id": 377906448,
+                "language": "Jupyter Notebook",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2024-04-30T14:12:20Z",
+                "open_issues": 37,
+                "owner": "nasaharvest",
+                "repo": "cropharvest",
+                "stars": 246,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CWFID",
+              "description": "Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Crop/Weed Field Image Dataset",
+                "homepage": null,
+                "id": 22174287,
+                "language": null,
+                "license": null,
+                "last_commit": "2015-04-20T11:00:45Z",
+                "open_issues": 0,
+                "owner": "cwfid",
+                "repo": "dataset",
+                "stars": 164,
+                "topics": [
+                  "agriculture",
+                  "annotations",
+                  "classification",
+                  "crop",
+                  "dataset",
+                  "discrimination",
+                  "mask",
+                  "paper",
+                  "segmentation",
+                  "weed"
+                ]
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SoybeanYield",
+              "description": "A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository contains codes for the paper entitled \"A CNN-RNN Framework for Crop Yield Prediction\"",
+                "homepage": null,
+                "id": 217547953,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-03-14T08:23:25Z",
+                "open_issues": 9,
+                "owner": "saeedkhaki92",
+                "repo": "CNN-RNN-Yield-Prediction",
+                "stars": 162,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:27:38.471Z"
+            }
+          ],
+          "description": "Research datasets and collections with broad agricultural applications.",
+          "node_type": "group",
+          "title": "Research and General Data"
         },
         {
-          "node_type": "item",
-          "title": "CWFID",
-          "description": "Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Crop/Weed Field Image Dataset",
-            "homepage": null,
-            "id": 22174287,
-            "language": null,
-            "license": null,
-            "last_commit": "2015-04-20T11:00:45Z",
-            "open_issues": 0,
-            "owner": "cwfid",
-            "repo": "dataset",
-            "stars": 164,
-            "topics": [
-              "agriculture",
-              "annotations",
-              "classification",
-              "crop",
-              "dataset",
-              "discrimination",
-              "mask",
-              "paper",
-              "segmentation",
-              "weed"
-            ]
-          },
-          "first_seen": "2026-08-28T21:27:38.471Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SoybeanYield",
-          "description": "A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains codes for the paper entitled \"A CNN-RNN Framework for Crop Yield Prediction\"",
-            "homepage": null,
-            "id": 217547953,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-03-14T08:23:25Z",
-            "open_issues": 9,
-            "owner": "saeedkhaki92",
-            "repo": "CNN-RNN-Yield-Prediction",
-            "stars": 162,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:27:38.471Z"
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "India Land Data",
+                  "description": "Official land-record portals for 11 Indian states and Indian land area units (gunta, bigha, kanal and others) with state variations, as CC BY 4.0 JSON.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Verified Indian land area units and official land record portals (JSON, CC BY 4.0)",
+                    "homepage": "https://www.agriva.ai/tools/land-unit-converter",
+                    "id": 1414822453,
+                    "language": "JavaScript",
+                    "license": "CC-BY-4.0",
+                    "last_commit": "2026-10-11T22:28:35Z",
+                    "open_issues": 0,
+                    "owner": "Vyzma-AI",
+                    "repo": "india-land-data",
+                    "stars": 1,
+                    "topics": [
+                      "agriculture",
+                      "dataset",
+                      "india",
+                      "land-records",
+                      "open-data",
+                      "real-estate",
+                      "unit-converter"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T17:52:28.715Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "India"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "massachusetts-frost-dates-zones",
+                  "description": "CC BY 4.0 CSV datasets of Massachusetts frost dates from NOAA normals and USDA hardiness zones for towns and villages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Massachusetts frost dates (NOAA 1991-2020 normals, 50 stations) and USDA hardiness zones for 508 towns, as CSV. From katamacreek.com",
+                    "homepage": "https://katamacreek.com/guides/massachusetts-frost-dates/",
+                    "id": 1447157422,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-11-08T15:33:30Z",
+                    "open_issues": 0,
+                    "owner": "sackio",
+                    "repo": "massachusetts-frost-dates-zones",
+                    "stars": 0,
+                    "topics": [
+                      "csv",
+                      "frost-dates",
+                      "gardening",
+                      "hardiness-zones",
+                      "massachusetts",
+                      "open-data"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T17:52:28.715Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "United States"
+            }
+          ],
+          "description": "Country and location-specific reference data for markets, land records, and growing conditions.",
+          "node_type": "group",
+          "title": "Regional Data"
         }
       ],
       "title": "Datasets"
@@ -346,6 +685,38 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Trefle",
+          "description": "Open source botanical REST API for querying plant species, taxonomy, and growing information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍀 Trefle is a botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.",
+            "homepage": "https://trefle.io",
+            "id": 181331238,
+            "language": "Ruby",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-10T19:50:51Z",
+            "open_issues": 58,
+            "owner": "treflehq",
+            "repo": "trefle-api",
+            "stars": 589,
+            "topics": [
+              "api-rest",
+              "biodiversity",
+              "database",
+              "farming-robots",
+              "gardening-apps",
+              "hacktoberfest",
+              "plants",
+              "plants-species",
+              "trefle",
+              "trefle-api"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
         {
           "node_type": "item",
           "title": "SampleData",
@@ -369,8 +740,8 @@
         },
         {
           "node_type": "item",
-          "title": "MyJohnDeereAPI-OAuth2-Python-Example",
-          "description": "Python MyJohnDeere API client example.",
+          "title": "OperationsCenterAPI-OAuth2-Python-Example",
+          "description": "Python example for the John Deere Operations Center API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -444,8 +815,31 @@
         },
         {
           "node_type": "item",
-          "title": "MyJohnDeereAPI-OAuth2-Java-Example",
-          "description": "Java MyJohnDeere API client example.",
+          "title": "Open Agri Common Semantic Model (OCSM)",
+          "description": "Ontology reusing existing standards to support semantic interoperability across smart farming solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenAgri Common Semantic Model",
+            "homepage": null,
+            "id": 847757265,
+            "language": "Jupyter Notebook",
+            "license": "EUPL-1.2",
+            "last_commit": "2026-11-13T13:05:23Z",
+            "open_issues": 6,
+            "owner": "agstack",
+            "repo": "OpenAgri-OCSM",
+            "stars": 7,
+            "topics": [
+              "hacktoberfest"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OperationsCenterAPI-OAuth2-Java-Example",
+          "description": "Java example for the John Deere Operations Center API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +848,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-14T16:37:33Z",
+            "last_commit": "2026-11-15T14:33:37Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -465,8 +859,8 @@
         },
         {
           "node_type": "item",
-          "title": "MyJohnDeereAPI-OAuth2-NodeJS-Example",
-          "description": "Node.js MyJohnDeere API client example.",
+          "title": "OperationsCenterAPI-OAuth2-NodeJS-Example",
+          "description": "Node.js example for the John Deere Operations Center API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,7 +907,7 @@
         },
         {
           "node_type": "item",
-          "title": "ClearAg-API-Examples",
+          "title": "ClearAg API Examples",
           "description": "A collection of code examples using the ClearAg APIs.",
           "children": [],
           "repo_info": {
@@ -534,8 +928,41 @@
         },
         {
           "node_type": "item",
-          "title": "JDLinkMachineDataAPI-OAuth2-CSharp-Example",
-          "description": "CSharp JDLink Machine Data API client example.",
+          "title": "Agro GPS MCP",
+          "description": "MCP server exposing the official plant protection product registers of 30 European countries (authorisation status, active substances, authorised uses per crop) to AI assistants; free, no key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for Agro GPS: plant protection product registers of 30 countries (free, no key) plus your farm notebook",
+            "homepage": "https://agrogps.eu",
+            "id": 1396084058,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-23T17:43:48Z",
+            "open_issues": 0,
+            "owner": "TheHiddenPandaDev",
+            "repo": "agro_gps_mcp",
+            "stars": 0,
+            "topics": [
+              "agriculture",
+              "europe",
+              "farm-management",
+              "field-notebook",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-data",
+              "pesticides",
+              "plant-protection",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ISO-15143-3-API-OAuth2-CSharp-Example",
+          "description": "C# example for the John Deere ISO 15143-3 machine data API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,6 +988,45 @@
       "items": [
         {
           "node_type": "item",
+          "title": "HortusFox",
+          "description": "Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted collaborative plant management and tracking system for plant enthusiasts",
+            "homepage": "https://www.hortusfox.com",
+            "id": 696013725,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-11-03T11:05:02Z",
+            "open_issues": 29,
+            "owner": "danielbrendel",
+            "repo": "hortusfox-web",
+            "stars": 1698,
+            "topics": [
+              "gardening",
+              "home-plants",
+              "horticulture",
+              "hortusfox",
+              "houseplants",
+              "plant-care",
+              "plant-collection",
+              "plant-growth",
+              "plant-journal",
+              "plant-manager",
+              "plant-monitoring",
+              "plant-parent",
+              "plant-tracking",
+              "plants",
+              "plants-grow",
+              "selfhosted",
+              "selfhosting"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
+        {
+          "node_type": "item",
           "title": "farmOS",
           "description": "Web-based farm record keeping application built with Drupal and PHP.",
           "children": [],
@@ -575,7 +1041,7 @@
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1389,
+            "stars": 1390,
             "topics": [
               "agriculture",
               "crops",
@@ -589,6 +1055,32 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Plant-it",
+          "description": "Android gardening companion for logging plant care, keeping photos, and setting reminders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🪴 Open source Android gardening companion app",
+            "homepage": null,
+            "id": 642901352,
+            "language": "Dart",
+            "license": "GPL-3.0",
+            "last_commit": "2026-01-20T09:29:02Z",
+            "open_issues": 60,
+            "owner": "MDeLuise",
+            "repo": "plant-it",
+            "stars": 1380,
+            "topics": [
+              "dart",
+              "flutter",
+              "gardening",
+              "plants"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
         },
         {
           "node_type": "item",
@@ -606,7 +1098,7 @@
             "open_issues": 37,
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "ddd-architecture",
               "end-user",
@@ -638,7 +1130,7 @@
             "open_issues": 10,
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "agriculture",
               "agtech",
@@ -672,7 +1164,7 @@
             "open_issues": 35,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "agriculture",
               "farming",
@@ -710,6 +1202,38 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GrowerHub",
+          "description": "Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Greenhouse monitoring and automation with Zigbee2MQTT, MQTT and ESP32. Try a live demo farm with sensor history, lighting and watering - no hardware or sign-up.",
+            "homepage": "https://growerhub.ru/app/demo/?lang=en&utm_source=github&utm_medium=referral&utm_campaign=demo_launch&utm_content=repository_about",
+            "id": 1070759285,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2026-11-13T06:11:09Z",
+            "open_issues": 0,
+            "owner": "aspinozaxxx-lab",
+            "repo": "growerhub",
+            "stars": 7,
+            "topics": [
+              "esp32",
+              "greenhouse-automation",
+              "iot",
+              "irrigation",
+              "mqtt",
+              "plant-monitoring",
+              "react",
+              "smart-farming",
+              "spring-boot",
+              "zigbee2mqtt"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
         }
       ],
       "title": "Farm Management Systems and Record Keeping"
@@ -732,10 +1256,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5625,
+                "stars": 5626,
                 "topics": [
                   "awesome",
                   "geo",
@@ -758,6 +1282,52 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AI Segmentation by TerraLab",
+              "description": "QGIS imagery segmentation plugin with local interactive processing and optional hosted processing with free-tier limits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Segment Anything in QGIS: click an object to get its outline, or name what you want (buildings, solar panels, trees) and get every match as vector polygons. QGIS plugin by TerraLab, free tier, no GPU needed.",
+                "homepage": "https://terra-lab.ai/ai-segmentation",
+                "id": 1138307131,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2026-10-16T02:05:16Z",
+                "open_issues": 0,
+                "owner": "TerraLabAI",
+                "repo": "QGIS_AI-Segmentation",
+                "stars": 45,
+                "topics": [
+                  "ai",
+                  "building-footprint",
+                  "computer-vision",
+                  "geoai",
+                  "geospatial",
+                  "gis",
+                  "object-detection",
+                  "python",
+                  "qgis",
+                  "qgis-plugin",
+                  "raster",
+                  "remote-sensing",
+                  "sam",
+                  "segment-anything",
+                  "segmentation",
+                  "terralab",
+                  "vectorization"
+                ]
+              },
+              "first_seen": "2026-11-15T17:52:28.715Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GIS Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "pyshp",
               "description": "Reads and writes ESRI Shapefiles in pure Python.",
               "children": [],
@@ -768,7 +1338,7 @@
                 "id": 17410607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T12:02:41Z",
+                "last_commit": "2026-11-15T12:45:16Z",
                 "open_issues": 8,
                 "owner": "GeospatialPython",
                 "repo": "pyshp",
@@ -809,6 +1379,27 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "AgOpenGPS",
+          "description": "Ag precision mapping and section control software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ag Precision Mapping, Section Control and Guidance Software",
+            "homepage": null,
+            "id": 71088706,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-14T09:49:56Z",
+            "open_issues": 16,
+            "owner": "AgOpenGPS-Official",
+            "repo": "AgOpenGPS",
+            "stars": 985,
+            "topics": []
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
+        },
         {
           "node_type": "item",
           "title": "Farm-Data-Relay-System",
@@ -864,7 +1455,7 @@
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "agriculture",
               "diy"
@@ -965,7 +1556,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "farming",
               "gardening",
@@ -1051,7 +1642,7 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-14T17:08:18Z",
+            "last_commit": "2026-11-15T14:09:21Z",
             "open_issues": 51,
             "owner": "danforthcenter",
             "repo": "plantcv",
@@ -1170,6 +1761,48 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HealthyCropping",
+          "description": "Android crop disease diagnosis application in development, using on-device computer vision for offline use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline-first Android app that detects coffee, cacao and banana diseases from a phone photo.",
+            "homepage": null,
+            "id": 1421877948,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T22:03:39Z",
+            "open_issues": 23,
+            "owner": "keylorpineda",
+            "repo": "healthycropping",
+            "stars": 4,
+            "topics": [
+              "agriculture",
+              "agtech",
+              "android-app",
+              "central-america",
+              "computer-vision",
+              "costa-rica",
+              "decision-support",
+              "edge-ai",
+              "expo",
+              "fastapi",
+              "gemini-rag",
+              "machine-learning",
+              "offline-first",
+              "open-source",
+              "plant-disease-detection",
+              "precision-agriculture",
+              "react-native",
+              "sqlite",
+              "tensorflow-lite",
+              "tflite"
+            ]
+          },
+          "first_seen": "2026-11-15T17:52:28.715Z"
         }
       ],
       "title": "Machine Learning and AI"
@@ -1289,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:13:03.602Z",
+    "last_updated": "2026-11-15T17:52:28.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1297,11 +1930,11 @@
       "id": 131012870,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-01-05T18:48:16Z",
-      "open_issues": 35,
+      "last_commit": "2026-11-14T23:47:03Z",
+      "open_issues": 9,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1922,
+      "stars": 1923,
       "topics": [
         "agricultural",
         "agriculture",
@@ -1317,7 +1950,7 @@
         "weather"
       ]
     },
-    "original_repository_sha": "592ed8bc11f4f6cdb3e325a7f51b0d728aea7e56",
+    "original_repository_sha": "14f9b7bd238e52ad808b55747434922436c95a28",
     "enhanced_repository": "enhansome/enhansome-agriculture",
     "enhanced_repository_description": null,
     "title": "Awesome Agriculture with stars"
