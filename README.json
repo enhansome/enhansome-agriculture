@@ -15,8 +15,8 @@
             "id": 501080115,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T13:06:07Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-17T21:09:23Z",
+            "open_issues": 32,
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
             "stars": 932,
@@ -29,6 +29,37 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sowbot",
+          "description": "Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sowbot open hardware agricultural robot. We're working towards  a precision-guided seeding/weeding robot. ",
+            "homepage": "https://sowbot.co.uk",
+            "id": 1149586616,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-18T12:12:21Z",
+            "open_issues": 11,
+            "owner": "Agroecology-Lab",
+            "repo": "Sowbot",
+            "stars": 104,
+            "topics": [
+              "agriculture",
+              "agriculture-robotics",
+              "agtech",
+              "farm-robot",
+              "farm-robotics",
+              "farming",
+              "robot",
+              "robotics",
+              "ros2"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
         },
         {
           "node_type": "item",
@@ -67,11 +98,11 @@
             "id": 1298164640,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T21:54:52Z",
+            "last_commit": "2026-11-18T13:50:10Z",
             "open_issues": 23,
             "owner": "tecelskyyivan-alt",
             "repo": "ardu-field-planner",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "agriculture",
               "arducopter",
@@ -302,7 +333,7 @@
             "id": 4253774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:36:49Z",
+            "last_commit": "2026-11-18T11:56:06Z",
             "open_issues": 110,
             "owner": "akrherz",
             "repo": "iem",
@@ -394,6 +425,32 @@
         },
         {
           "node_type": "item",
+          "title": "MAgPIE",
+          "description": "Global land-use allocation model linking agricultural production, land use and environmental impacts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Model of Agricultural Production and its Impact on the Environment (MAgPIE) - model code",
+            "homepage": null,
+            "id": 135430060,
+            "language": "GAMS",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-17T20:40:44Z",
+            "open_issues": 22,
+            "owner": "magpiemodel",
+            "repo": "magpie",
+            "stars": 145,
+            "topics": [
+              "gams",
+              "land",
+              "magpie",
+              "pik"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
           "title": "soilDB",
           "description": "R library for simplified access to NCSS soil databases.",
           "children": [],
@@ -404,7 +461,7 @@
             "id": 54595470,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T18:45:35Z",
+            "last_commit": "2026-11-18T15:45:10Z",
             "open_issues": 29,
             "owner": "ncss-tech",
             "repo": "soilDB",
@@ -513,9 +570,191 @@
             ]
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SoilHive Core",
+          "description": "Federated platform for discovering, harmonising and sharing soil datasets across institutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SoilHive Core",
+            "homepage": null,
+            "id": 1073644292,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-18T16:33:18Z",
+            "open_issues": 3,
+            "owner": "varda-ag",
+            "repo": "soilhive-core",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
         }
       ],
       "title": "Climate, Environment and Weather"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DSSAT",
+          "description": "Decision Support System for Agrotechnology Transfer cropping system model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DSSAT Cropping System Model",
+            "homepage": null,
+            "id": 221550261,
+            "language": "Fortran",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-03T02:49:16Z",
+            "open_issues": 60,
+            "owner": "DSSAT",
+            "repo": "dssat-csm-os",
+            "stars": 240,
+            "topics": [
+              "agriculture-research",
+              "crop-model",
+              "crop-simulation-models"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PlantGL",
+          "description": "Geometric library for modelling and visualising plant architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source graphic toolkit for the creation, simulation and analysis of 3D virtual plants.",
+            "homepage": "https://plantgl.readthedocs.io/en/latest/",
+            "id": 49205281,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-16T14:38:32Z",
+            "open_issues": 14,
+            "owner": "openalea",
+            "repo": "plantgl",
+            "stars": 81,
+            "topics": [
+              "3d",
+              "geometry",
+              "openalea",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FielDHub",
+          "description": "R/Shiny app for designing agricultural field experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FielDHub is an R Shiny design of experiments (DOE) app that aids in the creation of traditional, unreplicated, augmented and partially replicated (p-rep) designs applied to agriculture, plant breeding, forestry, animal and biological sciences.",
+            "homepage": "https://didiermurillof.github.io/FielDHub/",
+            "id": 341336031,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-17T16:27:51Z",
+            "open_issues": 3,
+            "owner": "DidierMurilloF",
+            "repo": "FielDHub",
+            "stars": 60,
+            "topics": [
+              "agricultural",
+              "breeding",
+              "design",
+              "doe",
+              "experimental",
+              "plantbreeding",
+              "r",
+              "rstats",
+              "shiny"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Phenomenal",
+          "description": "3D plant phenotyping and organ segmentation from multi-view images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Phenomenal: An automatic open source library for 3D shoot architecture reconstruction and analysis for image-based plant phenotyping",
+            "homepage": "https://phenomenal.readthedocs.io",
+            "id": 150389967,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-18T14:54:43Z",
+            "open_issues": 4,
+            "owner": "openalea",
+            "repo": "phenomenal",
+            "stars": 45,
+            "topics": [
+              "3d",
+              "automatic",
+              "openalea",
+              "phenotyping"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "apsimNGpy",
+          "description": "Python interface for running and analysing APSIM Next Generation simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ApsimNGpy is a Python library designed as an implementation of the APSIM Next Generation crop and environmental simulation model. This library is built upon the Pythonnet API, providing direct communication with the APSIM model. Notably, it offers a significant speed advantage, being twice as fast as pure Python.",
+            "homepage": null,
+            "id": 700529907,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-26T15:40:13Z",
+            "open_issues": 2,
+            "owner": "MAGALA-RICHARD",
+            "repo": "apsimNGpy",
+            "stars": 37,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CroptimizR",
+          "description": "R package for parameter estimation and uncertainty analysis of crop models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Estimate Crop Models' parameters",
+            "homepage": "https://sticsrpacks.github.io/CroptimizR/",
+            "id": 187874725,
+            "language": "R",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-10-19T00:28:38Z",
+            "open_issues": 17,
+            "owner": "SticsRPacks",
+            "repo": "CroptimizR",
+            "stars": 32,
+            "topics": [
+              "crop-model",
+              "parameter-estimation",
+              "sensitivity-analysis",
+              "uncertainty-analysis"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        }
+      ],
+      "title": "Crop Modeling, Phenotyping, and Pathology"
     },
     {
       "description": null,
@@ -719,6 +958,33 @@
         },
         {
           "node_type": "item",
+          "title": "FoodOn",
+          "description": "Open ontology for food, food sources and food processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The core repository for the FOODON food ontology project. This holds the key classes of the ontology; larger files and the results of text-mining projects will be stored in other repos. ",
+            "homepage": null,
+            "id": 54141883,
+            "language": "Python",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-11-03T20:07:52Z",
+            "open_issues": 79,
+            "owner": "FoodOntology",
+            "repo": "foodon",
+            "stars": 249,
+            "topics": [
+              "agriculture",
+              "food",
+              "obofoundry",
+              "ontology",
+              "owl"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
           "title": "SampleData",
           "description": "Sample datacards, shapefiles, and other files you can use for testing.",
           "children": [],
@@ -848,7 +1114,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-17T09:00:15Z",
+            "last_commit": "2026-11-18T13:12:00Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -1002,7 +1268,7 @@
             "open_issues": 30,
             "owner": "danielbrendel",
             "repo": "hortusfox-web",
-            "stars": 1699,
+            "stars": 1701,
             "topics": [
               "gardening",
               "home-plants",
@@ -1037,11 +1303,11 @@
             "id": 16508135,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T17:38:25Z",
+            "last_commit": "2026-11-18T19:03:45Z",
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1389,
+            "stars": 1390,
             "topics": [
               "agriculture",
               "crops",
@@ -1160,8 +1426,8 @@
             "id": 280231763,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T17:57:19Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-18T19:07:26Z",
+            "open_issues": 38,
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
             "stars": 254,
@@ -1259,7 +1525,7 @@
                 "open_issues": 140,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5628,
+                "stars": 5631,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1381,6 +1647,46 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Mycodo",
+          "description": "Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An environmental monitoring and regulation system",
+            "homepage": "http://kylegabriel.com/projects/",
+            "id": 30382555,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-03T01:03:07Z",
+            "open_issues": 117,
+            "owner": "kizniche",
+            "repo": "Mycodo",
+            "stars": 3303,
+            "topics": [
+              "automation",
+              "cultivation",
+              "environment",
+              "graphs",
+              "grow",
+              "hydroponic",
+              "measurements",
+              "monitoring",
+              "mushroom",
+              "pid",
+              "plants",
+              "python",
+              "raspberry-pi",
+              "regulation",
+              "relay",
+              "sensors",
+              "time-series",
+              "timer"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
           "title": "AgOpenGPS",
           "description": "Ag precision mapping and section control software.",
           "children": [],
@@ -1441,6 +1747,65 @@
         },
         {
           "node_type": "item",
+          "title": "Smart Irrigation",
+          "description": "Home Assistant integration that schedules irrigation from evapotranspiration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Smart Irrigation custom component for Home Assistant",
+            "homepage": "https://altmenorg.github.io/HAsmartirrigation/",
+            "id": 263179176,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-18T18:58:00Z",
+            "open_issues": 13,
+            "owner": "altmenorg",
+            "repo": "HAsmartirrigation",
+            "stars": 572,
+            "topics": [
+              "crop",
+              "evaporation",
+              "evapotranspiration",
+              "flow",
+              "grass",
+              "home-automation",
+              "homeassistant",
+              "irrigation",
+              "lawn",
+              "openweathermap",
+              "rain",
+              "snow",
+              "sprinkler",
+              "sprinklers",
+              "water",
+              "watering"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSprinkler",
+          "description": "Firmware for the open irrigation controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenSprinkler Unified Firmware for OpenSprinkler, OpenSprinkler Pi, and Linux-based OpenSprinkler",
+            "homepage": "http://www.opensprinkler.com",
+            "id": 23937804,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-07T02:28:03Z",
+            "open_issues": 12,
+            "owner": "OpenSprinkler",
+            "repo": "OpenSprinkler-Firmware",
+            "stars": 569,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenWeedLocator",
           "description": "Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.",
           "children": [],
@@ -1451,7 +1816,7 @@
             "id": 399194159,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T11:27:38Z",
+            "last_commit": "2026-11-17T22:53:56Z",
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
@@ -1642,8 +2007,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-17T19:36:41Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-18T02:24:22Z",
+            "open_issues": 50,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 841,
@@ -1721,11 +2086,11 @@
             "id": 4446000,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T14:14:23Z",
+            "last_commit": "2026-11-18T14:59:03Z",
             "open_issues": 0,
             "owner": "kwstat",
             "repo": "agridat",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "data",
               "rstats"
@@ -1772,10 +2137,10 @@
             "description": "Offline-first Android app that detects coffee, cacao and banana diseases from a phone photo.",
             "homepage": null,
             "id": 1421877948,
-            "language": "Python",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T11:43:00Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-18T03:51:00Z",
+            "open_issues": 12,
             "owner": "keylorpineda",
             "repo": "healthycropping",
             "stars": 4,
@@ -1808,8 +2173,229 @@
       "title": "Machine Learning and AI"
     },
     {
+      "description": "Software for moving food beyond the farm gate: farmer marketplaces, food co-ops, community-supported agriculture (CSA) administration and food rescue.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Food Network",
+          "description": "Online marketplace for farmers and food hubs to sell directly to eaters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Connect suppliers, distributors and consumers to trade local produce.",
+            "homepage": "https://www.openfoodnetwork.org",
+            "id": 6257856,
+            "language": "Ruby",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-18T09:32:51Z",
+            "open_issues": 647,
+            "owner": "openfoodfoundation",
+            "repo": "openfoodnetwork",
+            "stars": 1303,
+            "topics": [
+              "farmers",
+              "food",
+              "food-hubs",
+              "hacktoberfest",
+              "nonprofit",
+              "rails",
+              "ruby",
+              "sustainable-consumption"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Foodsoft",
+          "description": "Ordering, accounting and member management for non-profit food co-ops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).",
+            "homepage": "https://foodcoops.net/",
+            "id": 102952,
+            "language": "Ruby",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-14T10:55:46Z",
+            "open_issues": 274,
+            "owner": "foodcoops",
+            "repo": "foodsoft",
+            "stars": 362,
+            "topics": [
+              "cooperative",
+              "food",
+              "food-cooperative",
+              "foodcoop",
+              "foodsoft",
+              "membership",
+              "product-catalog"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FoodCoopShop",
+          "description": "Ordering and stock software for food co-ops and local farm shops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source software for food coops and local shops 🥕🍏 🧀",
+            "homepage": "https://www.foodcoopshop.com",
+            "id": 66584066,
+            "language": "PHP",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-16T12:31:59Z",
+            "open_issues": 90,
+            "owner": "foodcoopshop",
+            "repo": "foodcoopshop",
+            "stars": 124,
+            "topics": [
+              "cakephp",
+              "docker-dev",
+              "food-coop",
+              "foodcoop"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Teikei",
+          "description": "Map platform connecting consumers with community-supported agriculture (CSA) farms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A web application that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.",
+            "homepage": "https://ernte-teilen.org/karte",
+            "id": 19789022,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-07T15:08:18Z",
+            "open_issues": 6,
+            "owner": "teikei",
+            "repo": "teikei",
+            "stars": 66,
+            "topics": [
+              "crowdsourcing",
+              "csa",
+              "javascript",
+              "leafletjs",
+              "nodejs",
+              "react"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Juntagrico",
+          "description": "Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "juntagrico is a management platform for community gardens and vegetable cooperatives.",
+            "homepage": "https://juntagrico.org/",
+            "id": 86905380,
+            "language": "Python",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-11-18T19:23:21Z",
+            "open_issues": 68,
+            "owner": "juntagrico",
+            "repo": "juntagrico",
+            "stars": 55,
+            "topics": [
+              "community",
+              "cooperative",
+              "django",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOlitor",
+          "description": "Administration software for community-supported agriculture initiatives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Server Backend der OpenOlitor Administrationsplattform",
+            "homepage": null,
+            "id": 46425059,
+            "language": "Scala",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-18T16:24:32Z",
+            "open_issues": 21,
+            "owner": "OpenOlitor",
+            "repo": "openolitor-server",
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        }
+      ],
+      "title": "Markets and Food Systems"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "OpenDroneMap",
+          "description": "Drone image processing into orthomosaics, elevation models and plant health maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷",
+            "homepage": "https://opendronemap.org",
+            "id": 24470090,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-13T15:34:47Z",
+            "open_issues": 126,
+            "owner": "OpenDroneMap",
+            "repo": "ODM",
+            "stars": 6605,
+            "topics": [
+              "aerial-imagery",
+              "drone",
+              "photogrammetry",
+              "point-cloud",
+              "structure-from-motion",
+              "uas"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebODM",
+          "description": "Web interface for processing and sharing OpenDroneMap drone surveys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "User-friendly, commercial-grade software for processing aerial imagery. ✈️ Download it for free!",
+            "homepage": "https://webodm.org/download",
+            "id": 65209477,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-17T08:23:17Z",
+            "open_issues": 46,
+            "owner": "WebODM",
+            "repo": "WebODM",
+            "stars": 4280,
+            "topics": [
+              "drone",
+              "maps",
+              "photogrammetry",
+              "point-cloud",
+              "uav"
+            ]
+          },
+          "first_seen": "2026-11-18T19:26:56.955Z"
+        },
         {
           "node_type": "item",
           "title": "Raster Vision",
@@ -1922,7 +2508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:55:58.528Z",
+    "last_updated": "2026-11-18T19:26:56.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -1930,11 +2516,11 @@
       "id": 131012870,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-11-14T23:47:03Z",
+      "last_commit": "2026-11-17T20:25:54Z",
       "open_issues": 10,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
-      "stars": 1924,
+      "stars": 1925,
       "topics": [
         "agricultural",
         "agriculture",
@@ -1950,7 +2536,7 @@
         "weather"
       ]
     },
-    "original_repository_sha": "14f9b7bd238e52ad808b55747434922436c95a28",
+    "original_repository_sha": "b4b8ec762d1fea0dcec4571e33a93b4490cfb2e2",
     "enhanced_repository": "enhansome/enhansome-agriculture",
     "enhanced_repository_description": null,
     "title": "Awesome Agriculture with stars"
