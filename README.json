@@ -333,7 +333,7 @@
             "id": 4253774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T11:56:06Z",
+            "last_commit": "2026-11-19T18:34:02Z",
             "open_issues": 110,
             "owner": "akrherz",
             "repo": "iem",
@@ -436,7 +436,7 @@
             "language": "GAMS",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T20:40:44Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "magpiemodel",
             "repo": "magpie",
             "stars": 145,
@@ -461,7 +461,7 @@
             "id": 54595470,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T15:45:10Z",
+            "last_commit": "2026-11-19T01:41:36Z",
             "open_issues": 29,
             "owner": "ncss-tech",
             "repo": "soilDB",
@@ -583,7 +583,7 @@
             "id": 1073644292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:33:18Z",
+            "last_commit": "2026-11-19T15:52:23Z",
             "open_issues": 3,
             "owner": "varda-ag",
             "repo": "soilhive-core",
@@ -752,6 +752,36 @@
             ]
           },
           "first_seen": "2026-11-18T19:26:56.955Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Contour Alley Designer",
+          "description": "Field-scale agroforestry design model (contour alley cropping, shelterbelts, silvopasture) that simulates 40 years on real terrain and soils. Research software in development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open field-scale contour alley-cropping design: water, carbon, leakage and durability on real terrain.",
+            "homepage": "https://viridisconservation.com",
+            "id": 1441919477,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T23:47:26Z",
+            "open_issues": 2,
+            "owner": "viridisconservation",
+            "repo": "contour-alley-designer",
+            "stars": 0,
+            "topics": [
+              "agroforestry",
+              "alley-cropping",
+              "carbon-removal",
+              "conservation",
+              "earth-engine",
+              "regenerative-agriculture",
+              "silvopasture",
+              "windbreaks"
+            ]
+          },
+          "first_seen": "2026-11-19T19:31:37.785Z"
         }
       ],
       "title": "Crop Modeling, Phenotyping, and Pathology"
@@ -798,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "cwfid",
                 "repo": "dataset",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "agriculture",
                   "annotations",
@@ -877,6 +907,34 @@
               "description": null,
               "node_type": "group",
               "title": "India"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nepal Open Farm Data",
+                  "description": "District figures for coffee, tea, large cardamom, apple, plum and related crops from the Nepal agriculture ministry (MoALD) statistical yearbooks, as CC BY 4.0 CSV.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "District figures for Nepal crops from MoALD statistical yearbooks. CC BY 4.0. Monthly refresh from the ministry site.",
+                    "homepage": null,
+                    "id": 1458465950,
+                    "language": "JavaScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-15T09:17:18Z",
+                    "open_issues": 0,
+                    "owner": "ashiskharel",
+                    "repo": "nepal-open-farm-data",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T19:31:37.785Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Nepal"
             },
             {
               "children": [
@@ -968,8 +1026,8 @@
             "id": 54141883,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-03T20:07:52Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-18T19:45:21Z",
+            "open_issues": 78,
             "owner": "FoodOntology",
             "repo": "foodon",
             "stars": 249,
@@ -1114,7 +1172,7 @@
             "id": 234744683,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-18T13:12:00Z",
+            "last_commit": "2026-11-19T09:14:09Z",
             "open_issues": 6,
             "owner": "JohnDeere",
             "repo": "OperationsCenterAPI-OAuth2-Java-Example",
@@ -1303,7 +1361,7 @@
             "id": 16508135,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-18T19:03:45Z",
+            "last_commit": "2026-11-19T16:42:00Z",
             "open_issues": 62,
             "owner": "farmOS",
             "repo": "farmOS",
@@ -1396,7 +1454,7 @@
             "open_issues": 10,
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 497,
+            "stars": 496,
             "topics": [
               "agriculture",
               "agtech",
@@ -1481,7 +1539,7 @@
             "id": 1070759285,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:15:10Z",
+            "last_commit": "2026-11-19T08:22:40Z",
             "open_issues": 0,
             "owner": "aspinozaxxx-lab",
             "repo": "growerhub",
@@ -1522,10 +1580,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:10:54Z",
-                "open_issues": 140,
+                "open_issues": 143,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5631,
+                "stars": 5632,
                 "topics": [
                   "awesome",
                   "geo",
@@ -1608,7 +1666,7 @@
                 "open_issues": 8,
                 "owner": "GeospatialPython",
                 "repo": "pyshp",
-                "stars": 1161,
+                "stars": 1160,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:27:38.471Z"
@@ -1661,7 +1719,7 @@
             "open_issues": 117,
             "owner": "kizniche",
             "repo": "Mycodo",
-            "stars": 3303,
+            "stars": 3302,
             "topics": [
               "automation",
               "cultivation",
@@ -1701,7 +1759,7 @@
             "open_issues": 16,
             "owner": "AgOpenGPS-Official",
             "repo": "AgOpenGPS",
-            "stars": 987,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-11-15T17:52:28.715Z"
@@ -1757,11 +1815,11 @@
             "id": 263179176,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:58:00Z",
+            "last_commit": "2026-11-18T22:03:05Z",
             "open_issues": 13,
             "owner": "altmenorg",
             "repo": "HAsmartirrigation",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "crop",
               "evaporation",
@@ -1796,7 +1854,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T02:28:03Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "OpenSprinkler",
             "repo": "OpenSprinkler-Firmware",
             "stars": 569,
@@ -1816,7 +1874,7 @@
             "id": 399194159,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:53:56Z",
+            "last_commit": "2026-11-19T17:07:26Z",
             "open_issues": 18,
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
@@ -1921,7 +1979,7 @@
             "open_issues": 134,
             "owner": "openfarmcc",
             "repo": "OpenFarm",
-            "stars": 1735,
+            "stars": 1734,
             "topics": [
               "farming",
               "gardening",
@@ -2007,8 +2065,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T02:24:22Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-19T19:28:52Z",
+            "open_issues": 52,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 841,
@@ -2187,11 +2245,11 @@
             "id": 6257856,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-18T09:32:51Z",
-            "open_issues": 647,
+            "last_commit": "2026-11-19T03:20:39Z",
+            "open_issues": 646,
             "owner": "openfoodfoundation",
             "repo": "openfoodnetwork",
-            "stars": 1303,
+            "stars": 1302,
             "topics": [
               "farmers",
               "food",
@@ -2246,8 +2304,8 @@
             "id": 66584066,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T12:31:59Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-19T14:08:39Z",
+            "open_issues": 87,
             "owner": "foodcoopshop",
             "repo": "foodcoopshop",
             "stars": 124,
@@ -2300,7 +2358,7 @@
             "id": 86905380,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-18T19:23:21Z",
+            "last_commit": "2026-11-19T15:27:31Z",
             "open_issues": 68,
             "owner": "juntagrico",
             "repo": "juntagrico",
@@ -2357,7 +2415,7 @@
             "open_issues": 126,
             "owner": "OpenDroneMap",
             "repo": "ODM",
-            "stars": 6605,
+            "stars": 6606,
             "topics": [
               "aerial-imagery",
               "drone",
@@ -2382,10 +2440,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-17T08:23:17Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "WebODM",
             "repo": "WebODM",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "drone",
               "maps",
@@ -2502,13 +2560,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:38.471Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel-crop-pipeline",
+          "description": "Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source, config-driven pipeline for discovering, preprocessing, and patching Sentinel-2 L2A imagery into U-Net-ready training datasets for crop classification — hybrid rule-based + AI scene selection with ground-truth label integration.",
+            "homepage": null,
+            "id": 1295069333,
+            "language": "HTML",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-08T21:22:39Z",
+            "open_issues": 0,
+            "owner": "muend",
+            "repo": "sentinel-crop-pipeline",
+            "stars": 5,
+            "topics": [
+              "agriculture",
+              "arcgis",
+              "cdse",
+              "copernicus",
+              "crop-classification",
+              "geospatial",
+              "geotiff",
+              "machine-learning",
+              "qgis",
+              "rasterio",
+              "remote-sensing",
+              "sentinel-2",
+              "unet"
+            ]
+          },
+          "first_seen": "2026-11-19T19:31:37.785Z"
         }
       ],
       "title": "Remote Sensing and Imagery"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:26:56.955Z",
+    "last_updated": "2026-11-19T19:31:37.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open source technology for agriculture, farming, and gardening",
@@ -2516,8 +2609,8 @@
       "id": 131012870,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-11-17T20:25:54Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-18T20:46:48Z",
+      "open_issues": 5,
       "owner": "brycejohnston",
       "repo": "awesome-agriculture",
       "stars": 1925,
@@ -2536,7 +2629,7 @@
         "weather"
       ]
     },
-    "original_repository_sha": "b4b8ec762d1fea0dcec4571e33a93b4490cfb2e2",
+    "original_repository_sha": "77787057181413cbd8a512c4e0ef3da61b899be0",
     "enhanced_repository": "enhansome/enhansome-agriculture",
     "enhanced_repository_description": null,
     "title": "Awesome Agriculture with stars"
