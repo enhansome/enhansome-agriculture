@@ -29,10 +29,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Automation and Robotics
 
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 937 | 🐛 32 | 🌐 C++ | 📅 2026-11-25 - Robust and efficient coverage paths for autonomous agricultural vehicles.
-* [Sowbot](https://github.com/Agroecology-Lab/Sowbot) ⭐ 107 | 🐛 10 | 🌐 Python | 📅 2026-11-26 - Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 939 | 🐛 33 | 🌐 C++ | 📅 2026-11-25 - Robust and efficient coverage paths for autonomous agricultural vehicles.
+* [Sowbot](https://github.com/Agroecology-Lab/Sowbot) ⭐ 107 | 🐛 10 | 🌐 Python | 📅 2026-11-27 - Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.
 * [Feldfreund Dev Kit](https://github.com/zauberzeug/feldfreund_devkit) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-10-23 - Open source development platform for autonomous outdoor robotics and agricultural weeding.
-* [Field Mission Planner](https://github.com/tecelskyyivan-alt/ardu-field-planner) ⭐ 7 | 🐛 23 | 🌐 Python | 📅 2026-11-18 - Open-source spraying route planner for ArduPilot drones (coverage routes around obstacles, MAVLink upload, offline).
+* [Field Mission Planner](https://github.com/tecelskyyivan-alt/ardu-field-planner) ⭐ 7 | 🐛 24 | 🌐 Python | 📅 2026-11-18 - Open-source spraying route planner for ArduPilot drones (coverage routes around obstacles, MAVLink upload, offline).
 * [Acorn Rover](https://github.com/Twisted-Fields) - precision farming rover, Odrive, Python.
 * [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
 * [Earth Rover](https://github.com/earthrover) - Ag AGV ROS1 precision farming rover
@@ -57,12 +57,12 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 * [PyETo](https://github.com/woodcrafty/PyETo) ⭐ 179 | 🐛 5 | 🌐 Python | 📅 2022-08-31 - Python package for calculating reference/potential evapotranspiration (ETo).
 * [pyTSEB](https://github.com/hectornieto/pyTSEB) ⭐ 172 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-16 - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
 * [frostline](https://github.com/waldoj/frostline) ⭐ 165 | 🐛 13 | 🌐 HTML | 📅 2026-09-08 - A dataset, API, and python parser for USDA plant hardiness zones.
-* [MAgPIE](https://github.com/magpiemodel/magpie) ⭐ 146 | 🐛 25 | 🌐 GAMS | 📅 2026-11-26 - Global land-use allocation model linking agricultural production, land use and environmental impacts.
+* [MAgPIE](https://github.com/magpiemodel/magpie) ⭐ 146 | 🐛 25 | 🌐 GAMS | 📅 2026-11-27 - Global land-use allocation model linking agricultural production, land use and environmental impacts.
 * [soilDB](https://github.com/ncss-tech/soilDB) ⭐ 103 | 🐛 24 | 🌐 R | 📅 2026-11-25 - R library for simplified access to NCSS soil databases.
 * [GSODR](https://github.com/ropensci/GSODR) ⭐ 98 | 🐛 0 | 🌐 R | 📅 2026-10-01 - Global summary daily weather data in R.
 * [agroclimatology](https://github.com/brycejohnston/agroclimatology) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2017-08-30 - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
 * [evapotranspiration](https://github.com/brycejohnston/evapotranspiration) ⭐ 15 | 🐛 0 | 🌐 Ruby | 📅 2017-08-30 - Ruby library for calculating reference crop evapotranspiration (ETo).
-* [SoilHive Core](https://github.com/varda-ag/soilhive-core) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-26 - Federated platform for discovering, harmonising and sharing soil datasets across institutions.
+* [SoilHive Core](https://github.com/varda-ag/soilhive-core) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-27 - Federated platform for discovering, harmonising and sharing soil datasets across institutions.
 
 ## Crop Modeling, Phenotyping, and Pathology
 
@@ -118,13 +118,13 @@ Country and location-specific reference data for markets, land records, and grow
 ## Data Standardization, Interoperability and APIs
 
 * [Trefle](https://github.com/treflehq/trefle-api) ⭐ 590 | 🐛 58 | 🌐 Ruby | 📅 2026-11-10 - Open source botanical REST API for querying plant species, taxonomy, and growing information.
-* [FoodOn](https://github.com/FoodOntology/foodon) ⭐ 250 | 🐛 78 | 🌐 Python | 📅 2026-11-18 - Open ontology for food, food sources and food processing.
+* [FoodOn](https://github.com/FoodOntology/foodon) ⭐ 251 | 🐛 78 | 🌐 Python | 📅 2026-11-18 - Open ontology for food, food sources and food processing.
 * [SampleData](https://github.com/JohnDeere/SampleData) ⭐ 40 | 🐛 0 | 📅 2023-03-29 - Sample datacards, shapefiles, and other files you can use for testing.
 * [OperationsCenterAPI-OAuth2-Python-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Python-Example) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - Python example for the John Deere Operations Center API.
 * [Botanica](https://github.com/Michael-A-Kuykendall/botanica) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2026-11-01 - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 * [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2019-01-10 - Contains aWhere's API platform code samples.
 * [Open Agri Common Semantic Model (OCSM)](https://github.com/agstack/OpenAgri-OCSM) ⭐ 8 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Ontology reusing existing standards to support semantic interoperability across smart farming solutions.
-* [OperationsCenterAPI-OAuth2-Java-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Java-Example) ⭐ 3 | 🐛 6 | 🌐 Java | 📅 2026-11-26 - Java example for the John Deere Operations Center API.
+* [OperationsCenterAPI-OAuth2-Java-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Java-Example) ⭐ 3 | 🐛 6 | 🌐 Java | 📅 2026-11-27 - Java example for the John Deere Operations Center API.
 * [OperationsCenterAPI-OAuth2-NodeJS-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-NodeJS-Example) ⭐ 3 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-25 - Node.js example for the John Deere Operations Center API.
 * [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) ⚠️ Archived - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 * [ClearAg API Examples](https://github.com/DTNClearAg/clearag_api_examples) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-17 - A collection of code examples using the ClearAg APIs.
@@ -140,8 +140,8 @@ Country and location-specific reference data for markets, land records, and grow
 
 ## Farm Management Systems and Record Keeping
 
-* [HortusFox](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,700 | 🐛 29 | 🌐 PHP | 📅 2026-11-23 - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
-* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,390 | 🐛 63 | 🌐 PHP | 📅 2026-11-19 - Web-based farm record keeping application built with Drupal and PHP.
+* [HortusFox](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,701 | 🐛 29 | 🌐 PHP | 📅 2026-11-23 - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
+* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,390 | 🐛 63 | 🌐 PHP | 📅 2026-11-27 - Web-based farm record keeping application built with Drupal and PHP.
 * [Plant-it](https://github.com/MDeLuise/plant-it) ⭐ 1,379 | 🐛 60 | 🌐 Dart | 📅 2026-01-20 - Android gardening companion for logging plant care, keeping photos, and setting reminders.
 * [Tania](https://github.com/usetania/tania-core) ⭐ 827 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 497 | 🐛 10 | 🌐 Ruby | 📅 2026-10-25 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
@@ -156,7 +156,7 @@ Country and location-specific reference data for markets, land records, and grow
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,643 | 🐛 156 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,643 | 🐛 157 | 📅 2026-07-21 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -165,16 +165,16 @@ Country and location-specific reference data for markets, land records, and grow
 
 ### Shapefiles
 
-* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,160 | 🐛 9 | 🌐 Python | 📅 2026-11-26 - Reads and writes ESRI Shapefiles in pure Python.
+* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,160 | 🐛 10 | 🌐 Python | 📅 2026-11-27 - Reads and writes ESRI Shapefiles in pure Python.
 * [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) ⭐ 98 | 🐛 3 | 🌐 Ruby | 📅 2024-10-10 - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ## IoT, Hardware
 
-* [Mycodo](https://github.com/kizniche/Mycodo) ⭐ 3,306 | 🐛 117 | 🌐 Python | 📅 2026-08-03 - Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.
+* [Mycodo](https://github.com/kizniche/Mycodo) ⭐ 3,307 | 🐛 117 | 🌐 Python | 📅 2026-08-03 - Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.
 * [AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) ⭐ 991 | 🐛 17 | 🌐 C# | 📅 2026-11-14 - Ag precision mapping and section control software.
 * [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) ⭐ 633 | 🐛 7 | 🌐 C | 📅 2026-01-29 - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
-* [Smart Irrigation](https://github.com/altmenorg/HAsmartirrigation) ⭐ 574 | 🐛 5 | 🌐 Python | 📅 2026-11-26 - Home Assistant integration that schedules irrigation from evapotranspiration.
-* [OpenSprinkler](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) ⭐ 573 | 🐛 12 | 🌐 C++ | 📅 2026-11-07 - Firmware for the open irrigation controller.
+* [OpenSprinkler](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) ⭐ 574 | 🐛 12 | 🌐 C++ | 📅 2026-11-07 - Firmware for the open irrigation controller.
+* [Smart Irrigation](https://github.com/altmenorg/HAsmartirrigation) ⭐ 574 | 🐛 11 | 🌐 Python | 📅 2026-11-26 - Home Assistant integration that schedules irrigation from evapotranspiration.
 * [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) ⭐ 511 | 🐛 19 | 🌐 Python | 📅 2026-11-21 - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 * [OpenMinder](https://github.com/autogrow/openminder) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2018-06-14 - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 * [Smart Farming Thingsboard](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) ⭐ 7 | 🐛 0 | 📅 2022-05-05 - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
@@ -191,10 +191,10 @@ Country and location-specific reference data for markets, land records, and grow
 ## Machine Learning and AI
 
 * [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 915 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-11-03 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 842 | 🐛 34 | 🌐 Python | 📅 2026-11-25 - Plant phenotyping software using computer vision.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 845 | 🐛 35 | 🌐 Python | 📅 2026-11-27 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 422 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 356 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Centralized framework for agricultural machine learning.
-* [agridat](https://github.com/kwstat/agridat) ⭐ 153 | 🐛 0 | 🌐 R | 📅 2026-11-18 - R package providing an extensive collection of datasets from agricultural experiments.
+* [agridat](https://github.com/kwstat/agridat) ⭐ 153 | 🐛 1 | 🌐 R | 📅 2026-11-18 - R package providing an extensive collection of datasets from agricultural experiments.
 * [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) ⭐ 108 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-05-27 - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 * [HealthyCropping](https://github.com/keylorpineda/healthycropping) ⭐ 6 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-20 - Android crop disease diagnosis application in development, using on-device computer vision for offline use.
 
@@ -202,9 +202,9 @@ Country and location-specific reference data for markets, land records, and grow
 
 Software for moving food beyond the farm gate: farmer marketplaces, food co-ops, community-supported agriculture (CSA) administration and food rescue.
 
-* [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,304 | 🐛 641 | 🌐 Ruby | 📅 2026-11-26 - Online marketplace for farmers and food hubs to sell directly to eaters.
-* [Foodsoft](https://github.com/foodcoops/foodsoft) ⭐ 361 | 🐛 279 | 🌐 Ruby | 📅 2026-11-20 - Ordering, accounting and member management for non-profit food co-ops.
-* [FoodCoopShop](https://github.com/foodcoopshop/foodcoopshop) ⭐ 124 | 🐛 86 | 🌐 PHP | 📅 2026-11-26 - Ordering and stock software for food co-ops and local farm shops.
+* [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,305 | 🐛 637 | 🌐 Ruby | 📅 2026-11-27 - Online marketplace for farmers and food hubs to sell directly to eaters.
+* [Foodsoft](https://github.com/foodcoops/foodsoft) ⭐ 361 | 🐛 278 | 🌐 Ruby | 📅 2026-11-27 - Ordering, accounting and member management for non-profit food co-ops.
+* [FoodCoopShop](https://github.com/foodcoopshop/foodcoopshop) ⭐ 124 | 🐛 86 | 🌐 PHP | 📅 2026-11-27 - Ordering and stock software for food co-ops and local farm shops.
 * [Teikei](https://github.com/teikei/teikei) ⭐ 66 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-07 - Map platform connecting consumers with community-supported agriculture (CSA) farms.
 * [Juntagrico](https://github.com/juntagrico/juntagrico) ⭐ 55 | 🐛 72 | 🌐 Python | 📅 2026-11-25 - Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.
 * [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) ⭐ 19 | 🐛 22 | 🌐 Scala | 📅 2026-11-22 - Administration software for community-supported agriculture initiatives.
@@ -213,8 +213,8 @@ Software for moving food beyond the farm gate: farmer marketplaces, food co-ops,
 
 ## Remote Sensing and Imagery
 
-* [OpenDroneMap](https://github.com/OpenDroneMap/ODM) ⭐ 6,645 | 🐛 126 | 🌐 Python | 📅 2026-11-26 - Drone image processing into orthomosaics, elevation models and plant health maps.
-* [WebODM](https://github.com/WebODM/WebODM) ⭐ 4,296 | 🐛 40 | 🌐 Python | 📅 2026-11-26 - Web interface for processing and sharing OpenDroneMap drone surveys.
+* [OpenDroneMap](https://github.com/OpenDroneMap/ODM) ⭐ 6,647 | 🐛 128 | 🌐 Python | 📅 2026-11-27 - Drone image processing into orthomosaics, elevation models and plant health maps.
+* [WebODM](https://github.com/WebODM/WebODM) ⭐ 4,297 | 🐛 40 | 🌐 Python | 📅 2026-11-26 - Web interface for processing and sharing OpenDroneMap drone surveys.
 * [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,247 | 🐛 45 | 🌐 Python | 📅 2026-06-04 - Deep learning for aerial/satellite imagery.
 * [Awesome Sentinel](https://github.com/kr-stn/awesome-sentinel) ⭐ 586 | 🐛 5 | 📅 2025-02-20 - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 * [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) ⭐ 133 | 🐛 21 | 🌐 HTML | 📅 2020-11-23 - Software system processing high resolution satellite images for agricultural purposes.
@@ -229,4 +229,4 @@ To the extent possible under law, [Bryce Johnston](https://github.com/brycejohns
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
